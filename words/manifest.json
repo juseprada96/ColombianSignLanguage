@@ -1,0 +1,2018 @@
+[
+  {
+    "key": "FAMILIA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/FAMILIA.gif",
+    "video": "familia.mp4",
+    "start": 1.0,
+    "end": 8.5,
+    "label": null
+  },
+  {
+    "key": "PAPÁ",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PAPA.gif",
+    "video": "familia.mp4",
+    "start": 8.5,
+    "end": 14.0,
+    "label": null
+  },
+  {
+    "key": "MAMÁ",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/MAMA.gif",
+    "video": "familia.mp4",
+    "start": 14.0,
+    "end": 19.25,
+    "label": null
+  },
+  {
+    "key": "HIJA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HIJA.gif",
+    "video": "familia.mp4",
+    "start": 19.25,
+    "end": 24.0,
+    "label": null
+  },
+  {
+    "key": "HIJO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HIJO.gif",
+    "video": "familia.mp4",
+    "start": 24.0,
+    "end": 27.75,
+    "label": null
+  },
+  {
+    "key": "ABUELA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/ABUELA.gif",
+    "video": "familia.mp4",
+    "start": 27.75,
+    "end": 35.0,
+    "label": null
+  },
+  {
+    "key": "ABUELO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/ABUELO.gif",
+    "video": "familia.mp4",
+    "start": 35.0,
+    "end": 38.0,
+    "label": null
+  },
+  {
+    "key": "NIETO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NIETO.gif",
+    "video": "familia.mp4",
+    "start": 38.0,
+    "end": 42.25,
+    "label": null
+  },
+  {
+    "key": "HERMANO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HERMANO.gif",
+    "video": "familia.mp4",
+    "start": 42.25,
+    "end": 46.0,
+    "label": null
+  },
+  {
+    "key": "HERMANA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HERMANA.gif",
+    "video": "familia.mp4",
+    "start": 46.0,
+    "end": 49.75,
+    "label": null
+  },
+  {
+    "key": "GEMELOS",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/GEMELOS.gif",
+    "video": "familia.mp4",
+    "start": 54.25,
+    "end": 60.0,
+    "label": null
+  },
+  {
+    "key": "ESPOSO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/ESPOSO.gif",
+    "video": "familia.mp4",
+    "start": 60.0,
+    "end": 71.5,
+    "label": null
+  },
+  {
+    "key": "ESPOSA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/ESPOSA.gif",
+    "video": "familia.mp4",
+    "start": 60.0,
+    "end": 71.5,
+    "label": null
+  },
+  {
+    "key": "NOVIO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NOVIO.gif",
+    "video": "familia.mp4",
+    "start": 71.5,
+    "end": 77.5,
+    "label": null
+  },
+  {
+    "key": "NOVIA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NOVIA.gif",
+    "video": "familia.mp4",
+    "start": 71.5,
+    "end": 77.5,
+    "label": null
+  },
+  {
+    "key": "MELLIZOS",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/MELLIZOS.gif",
+    "video": "familia.mp4",
+    "start": 77.5,
+    "end": 81.75,
+    "label": null
+  },
+  {
+    "key": "JOVEN",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/JOVEN.gif",
+    "video": "familia.mp4",
+    "start": 81.75,
+    "end": 85.5,
+    "label": null
+  },
+  {
+    "key": "ADULTO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/ADULTO.gif",
+    "video": "familia.mp4",
+    "start": 85.5,
+    "end": 87.75,
+    "label": null
+  },
+  {
+    "key": "VIEJO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/VIEJO.gif",
+    "video": "familia.mp4",
+    "start": 87.75,
+    "end": 91.0,
+    "label": null
+  },
+  {
+    "key": "TÍA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/TIA.gif",
+    "video": "familia.mp4",
+    "start": 91.0,
+    "end": 95.75,
+    "label": null
+  },
+  {
+    "key": "TÍO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/TIO.gif",
+    "video": "familia.mp4",
+    "start": 95.75,
+    "end": 99.0,
+    "label": null
+  },
+  {
+    "key": "SOBRINO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/SOBRINO.gif",
+    "video": "familia.mp4",
+    "start": 107.25,
+    "end": 114.25,
+    "label": null
+  },
+  {
+    "key": "SOBRINA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/SOBRINA.gif",
+    "video": "familia.mp4",
+    "start": 107.25,
+    "end": 114.25,
+    "label": null
+  },
+  {
+    "key": "PRIMO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PRIMO.gif",
+    "video": "familia.mp4",
+    "start": 114.25,
+    "end": 121.25,
+    "label": null
+  },
+  {
+    "key": "PRIMA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PRIMA.gif",
+    "video": "familia.mp4",
+    "start": 114.25,
+    "end": 121.25,
+    "label": null
+  },
+  {
+    "key": "NIÑA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NINA.gif",
+    "video": "familia.mp4",
+    "start": 121.25,
+    "end": 123.75,
+    "label": null
+  },
+  {
+    "key": "NIÑO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NINO.gif",
+    "video": "familia.mp4",
+    "start": 123.75,
+    "end": 126.75,
+    "label": null
+  },
+  {
+    "key": "BEBE",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/BEBE.gif",
+    "video": "familia.mp4",
+    "start": 126.75,
+    "end": 128.75,
+    "label": null
+  },
+  {
+    "key": "SUEGRA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/SUEGRA.gif",
+    "video": "familia.mp4",
+    "start": 128.75,
+    "end": 135.0,
+    "label": null
+  },
+  {
+    "key": "SUEGRO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/SUEGRO.gif",
+    "video": "familia.mp4",
+    "start": 128.75,
+    "end": 135.0,
+    "label": null
+  },
+  {
+    "key": "NUERA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/NUERA.gif",
+    "video": "familia.mp4",
+    "start": 135.0,
+    "end": 142.75,
+    "label": null
+  },
+  {
+    "key": "YERNO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/YERNO.gif",
+    "video": "familia.mp4",
+    "start": 135.0,
+    "end": 142.75,
+    "label": null
+  },
+  {
+    "key": "CUÑADO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/CUNADO.gif",
+    "video": "familia.mp4",
+    "start": 142.75,
+    "end": 156.5,
+    "label": null
+  },
+  {
+    "key": "CUÑADA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/CUNADA.gif",
+    "video": "familia.mp4",
+    "start": 142.75,
+    "end": 156.5,
+    "label": null
+  },
+  {
+    "key": "MUJER",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/MUJER.gif",
+    "video": "familia.mp4",
+    "start": 156.5,
+    "end": 159.5,
+    "label": null
+  },
+  {
+    "key": "HOMBRE",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HOMBRE.gif",
+    "video": "familia.mp4",
+    "start": 159.5,
+    "end": 162.5,
+    "label": null
+  },
+  {
+    "key": "HIJASTRO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HIJASTRO.gif",
+    "video": "familia.mp4",
+    "start": 162.5,
+    "end": 174.25,
+    "label": null
+  },
+  {
+    "key": "HIJASTRA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/HIJASTRA.gif",
+    "video": "familia.mp4",
+    "start": 162.5,
+    "end": 174.25,
+    "label": null
+  },
+  {
+    "key": "PADRASTRO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PADRASTRO.gif",
+    "video": "familia.mp4",
+    "start": 174.25,
+    "end": 180.75,
+    "label": null
+  },
+  {
+    "key": "MADRASTRA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/MADRASTRA.gif",
+    "video": "familia.mp4",
+    "start": 180.75,
+    "end": 184.25,
+    "label": null
+  },
+  {
+    "key": "MADRINA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/MADRINA.gif",
+    "video": "familia.mp4",
+    "start": 184.25,
+    "end": 190.0,
+    "label": null
+  },
+  {
+    "key": "PADRINO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PADRINO.gif",
+    "video": "familia.mp4",
+    "start": 184.25,
+    "end": 190.0,
+    "label": null
+  },
+  {
+    "key": "AHIJADO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/AHIJADO.gif",
+    "video": "familia.mp4",
+    "start": 190.0,
+    "end": 200.5,
+    "label": null
+  },
+  {
+    "key": "AHIJADA",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/AHIJADA.gif",
+    "video": "familia.mp4",
+    "start": 190.0,
+    "end": 200.5,
+    "label": null
+  },
+  {
+    "key": "GATO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/GATO.gif",
+    "video": "familia.mp4",
+    "start": 200.75,
+    "end": 202.75,
+    "label": null
+  },
+  {
+    "key": "PERRO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/PERRO.gif",
+    "video": "familia.mp4",
+    "start": 202.75,
+    "end": 204.4,
+    "label": null
+  },
+  {
+    "key": "FALLECIDO",
+    "section": "FAMILIA",
+    "gif": "words/FAMILIA/FALLECIDO.gif",
+    "video": "familia.mp4",
+    "start": 204.4,
+    "end": 211.0,
+    "label": null
+  },
+  {
+    "key": "HOLA",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/HOLA.gif",
+    "video": "pronombres.mp4",
+    "start": 3.0,
+    "end": 5.38,
+    "label": "HOLA"
+  },
+  {
+    "key": "COMO ESTAS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/COMO_ESTAS.gif",
+    "video": "pronombres.mp4",
+    "start": 5.75,
+    "end": 8.75,
+    "label": null
+  },
+  {
+    "key": "TU NOMBRE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/TU_NOMBRE.gif",
+    "video": "pronombres.mp4",
+    "start": 9.12,
+    "end": 11.75,
+    "label": "TU NOMBRE"
+  },
+  {
+    "key": "MI NOMBRE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/MI_NOMBRE.gif",
+    "video": "pronombres.mp4",
+    "start": 12.12,
+    "end": 15.25,
+    "label": "MI NOMBRE"
+  },
+  {
+    "key": "TU SEÑA",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/TU_SENA.gif",
+    "video": "pronombres.mp4",
+    "start": 15.62,
+    "end": 19.25,
+    "label": "TU SENA"
+  },
+  {
+    "key": "MI SEÑA",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/MI_SENA.gif",
+    "video": "pronombres.mp4",
+    "start": 19.62,
+    "end": 22.0,
+    "label": "MI SENA"
+  },
+  {
+    "key": "BIENVENIDO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/BIENVENIDO.gif",
+    "video": "pronombres.mp4",
+    "start": 22.25,
+    "end": 25.12,
+    "label": "BIENVENIDOS"
+  },
+  {
+    "key": "MUCHO GUSTO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/MUCHO_GUSTO.gif",
+    "video": "pronombres.mp4",
+    "start": 25.25,
+    "end": 28.5,
+    "label": null
+  },
+  {
+    "key": "BUENOS DIAS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/BUENOS_DIAS.gif",
+    "video": "pronombres.mp4",
+    "start": 28.75,
+    "end": 31.88,
+    "label": "BUENOS DIAS"
+  },
+  {
+    "key": "BUENAS TARDES",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/BUENAS_TARDES.gif",
+    "video": "pronombres.mp4",
+    "start": 32.25,
+    "end": 35.5,
+    "label": null
+  },
+  {
+    "key": "BUENAS NOCHES",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/BUENAS_NOCHES.gif",
+    "video": "pronombres.mp4",
+    "start": 36.0,
+    "end": 39.25,
+    "label": "BUENAS NOCHES"
+  },
+  {
+    "key": "GRACIAS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/GRACIAS.gif",
+    "video": "pronombres.mp4",
+    "start": 39.62,
+    "end": 43.75,
+    "label": "GRACIAS"
+  },
+  {
+    "key": "LO SIENTO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/LO_SIENTO.gif",
+    "video": "pronombres.mp4",
+    "start": 44.12,
+    "end": 50.0,
+    "label": "LO SIENTO"
+  },
+  {
+    "key": "PERMISO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/PERMISO.gif",
+    "video": "pronombres.mp4",
+    "start": 51.5,
+    "end": 60.25,
+    "label": "PERMISO"
+  },
+  {
+    "key": "YO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/YO.gif",
+    "video": "pronombres.mp4",
+    "start": 60.62,
+    "end": 64.25,
+    "label": "YO"
+  },
+  {
+    "key": "MI",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/MI.gif",
+    "video": "pronombres.mp4",
+    "start": 64.62,
+    "end": 67.75,
+    "label": "MI"
+  },
+  {
+    "key": "MIO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/MIO.gif",
+    "video": "pronombres.mp4",
+    "start": 68.12,
+    "end": 71.0,
+    "label": "MIO"
+  },
+  {
+    "key": "NUESTRO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/NUESTRO.gif",
+    "video": "pronombres.mp4",
+    "start": 71.5,
+    "end": 74.0,
+    "label": "NUESTRO"
+  },
+  {
+    "key": "NOSOTROS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/NOSOTROS.gif",
+    "video": "pronombres.mp4",
+    "start": 74.75,
+    "end": 78.75,
+    "label": "NOSOTROS"
+  },
+  {
+    "key": "TUYO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/TUYO.gif",
+    "video": "pronombres.mp4",
+    "start": 79.12,
+    "end": 81.75,
+    "label": "TUYO"
+  },
+  {
+    "key": "TU",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/TU.gif",
+    "video": "pronombres.mp4",
+    "start": 82.12,
+    "end": 84.25,
+    "label": "TU"
+  },
+  {
+    "key": "EL",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/EL.gif",
+    "video": "pronombres.mp4",
+    "start": 84.62,
+    "end": 88.75,
+    "label": "EL"
+  },
+  {
+    "key": "ELLA",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/ELLA.gif",
+    "video": "pronombres.mp4",
+    "start": 89.12,
+    "end": 93.0,
+    "label": "ELLA"
+  },
+  {
+    "key": "ELLOS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/ELLOS.gif",
+    "video": "pronombres.mp4",
+    "start": 93.25,
+    "end": 97.0,
+    "label": "ELLOS"
+  },
+  {
+    "key": "ELLAS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/ELLAS.gif",
+    "video": "pronombres.mp4",
+    "start": 97.25,
+    "end": 100.25,
+    "label": "ELLAS"
+  },
+  {
+    "key": "USTED",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/USTED.gif",
+    "video": "pronombres.mp4",
+    "start": 100.62,
+    "end": 105.75,
+    "label": "USTED"
+  },
+  {
+    "key": "USTEDES",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/USTEDES.gif",
+    "video": "pronombres.mp4",
+    "start": 106.12,
+    "end": 109.75,
+    "label": "USTEDES"
+  },
+  {
+    "key": "CUAL",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/CUAL.gif",
+    "video": "pronombres.mp4",
+    "start": 110.12,
+    "end": 113.25,
+    "label": "CUAL"
+  },
+  {
+    "key": "CUAL DE LOS DOS",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/CUAL_DE_LOS_DOS.gif",
+    "video": "pronombres.mp4",
+    "start": 113.62,
+    "end": 117.5,
+    "label": "CUAL DE LOS DOS"
+  },
+  {
+    "key": "QUIEN",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/QUIEN.gif",
+    "video": "pronombres.mp4",
+    "start": 118.0,
+    "end": 121.75,
+    "label": "QUIEN"
+  },
+  {
+    "key": "CUANDO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/CUANDO.gif",
+    "video": "pronombres.mp4",
+    "start": 122.12,
+    "end": 126.0,
+    "label": "CUANDO"
+  },
+  {
+    "key": "CUANTO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/CUANTO.gif",
+    "video": "pronombres.mp4",
+    "start": 126.5,
+    "end": 133.25,
+    "label": "CUANTO"
+  },
+  {
+    "key": "COMO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/COMO.gif",
+    "video": "pronombres.mp4",
+    "start": 133.62,
+    "end": 136.75,
+    "label": "COMO"
+  },
+  {
+    "key": "DONDE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/DONDE.gif",
+    "video": "pronombres.mp4",
+    "start": 138.12,
+    "end": 142.25,
+    "label": "DONDE"
+  },
+  {
+    "key": "POR DONDE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/POR_DONDE.gif",
+    "video": "pronombres.mp4",
+    "start": 142.62,
+    "end": 144.75,
+    "label": "PORDONDE"
+  },
+  {
+    "key": "QUE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/QUE.gif",
+    "video": "pronombres.mp4",
+    "start": 145.12,
+    "end": 149.75,
+    "label": "QUE"
+  },
+  {
+    "key": "PORQUÉ",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/PORQUE.gif",
+    "video": "pronombres.mp4",
+    "start": 150.12,
+    "end": 154.0,
+    "label": "PORQUE?"
+  },
+  {
+    "key": "QUE PASO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/QUE_PASO.gif",
+    "video": "pronombres.mp4",
+    "start": 154.5,
+    "end": 157.75,
+    "label": "QUEPASO?"
+  },
+  {
+    "key": "QUE LE PASA",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/QUE_LE_PASA.gif",
+    "video": "pronombres.mp4",
+    "start": 158.12,
+    "end": 161.5,
+    "label": "QUELEPASA"
+  },
+  {
+    "key": "PARA QUE",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/PARA_QUE.gif",
+    "video": "pronombres.mp4",
+    "start": 163.25,
+    "end": 165.25,
+    "label": "PARA OUE?"
+  },
+  {
+    "key": "QUE ES ESO",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/QUE_ES_ESO.gif",
+    "video": "pronombres.mp4",
+    "start": 165.62,
+    "end": 167.75,
+    "label": "QUEESESO?"
+  },
+  {
+    "key": "PERDON",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/PERDON.gif",
+    "video": "pronombres.mp4",
+    "start": 168.38,
+    "end": 172.25,
+    "label": "PERDON"
+  },
+  {
+    "key": "DONDE VIVES",
+    "section": "PRONOMBRES",
+    "gif": "words/PRONOMBRES/DONDE_VIVES.gif",
+    "video": "pronombres.mp4",
+    "start": 172.62,
+    "end": 174.5,
+    "label": "DONDE VIVES?"
+  },
+  {
+    "key": "COLORES",
+    "section": "COLORES",
+    "gif": "words/COLORES/COLORES.gif",
+    "video": "colores.mp4",
+    "start": 0.0,
+    "end": 3.25,
+    "label": "COLORES"
+  },
+  {
+    "key": "AMARILLO",
+    "section": "COLORES",
+    "gif": "words/COLORES/AMARILLO.gif",
+    "video": "colores.mp4",
+    "start": 3.62,
+    "end": 6.75,
+    "label": "AMARILLO"
+  },
+  {
+    "key": "AZUL",
+    "section": "COLORES",
+    "gif": "words/COLORES/AZUL.gif",
+    "video": "colores.mp4",
+    "start": 7.12,
+    "end": 10.75,
+    "label": "AZUL"
+  },
+  {
+    "key": "ROJO",
+    "section": "COLORES",
+    "gif": "words/COLORES/ROJO.gif",
+    "video": "colores.mp4",
+    "start": 11.12,
+    "end": 16.25,
+    "label": "ROJO"
+  },
+  {
+    "key": "VERDE",
+    "section": "COLORES",
+    "gif": "words/COLORES/VERDE.gif",
+    "video": "colores.mp4",
+    "start": 16.62,
+    "end": 19.75,
+    "label": "VERDE"
+  },
+  {
+    "key": "NARANJA",
+    "section": "COLORES",
+    "gif": "words/COLORES/NARANJA.gif",
+    "video": "colores.mp4",
+    "start": 20.12,
+    "end": 22.25,
+    "label": "NARANJA"
+  },
+  {
+    "key": "MORADO",
+    "section": "COLORES",
+    "gif": "words/COLORES/MORADO.gif",
+    "video": "colores.mp4",
+    "start": 22.62,
+    "end": 26.25,
+    "label": "MORADO"
+  },
+  {
+    "key": "ROSADO",
+    "section": "COLORES",
+    "gif": "words/COLORES/ROSADO.gif",
+    "video": "colores.mp4",
+    "start": 26.62,
+    "end": 30.25,
+    "label": "ROSADO"
+  },
+  {
+    "key": "GRIS",
+    "section": "COLORES",
+    "gif": "words/COLORES/GRIS.gif",
+    "video": "colores.mp4",
+    "start": 30.62,
+    "end": 33.0,
+    "label": "GRIS"
+  },
+  {
+    "key": "NEGRO",
+    "section": "COLORES",
+    "gif": "words/COLORES/NEGRO.gif",
+    "video": "colores.mp4",
+    "start": 33.5,
+    "end": 36.25,
+    "label": "NEGRO"
+  },
+  {
+    "key": "CAFE",
+    "section": "COLORES",
+    "gif": "words/COLORES/CAFE.gif",
+    "video": "colores.mp4",
+    "start": 36.62,
+    "end": 39.25,
+    "label": "CAFE"
+  },
+  {
+    "key": "BLANCO",
+    "section": "COLORES",
+    "gif": "words/COLORES/BLANCO.gif",
+    "video": "colores.mp4",
+    "start": 39.62,
+    "end": 42.62,
+    "label": "BLANCO"
+  },
+  {
+    "key": "BEIGE",
+    "section": "COLORES",
+    "gif": "words/COLORES/BEIGE.gif",
+    "video": "colores.mp4",
+    "start": 42.75,
+    "end": 45.75,
+    "label": null
+  },
+  {
+    "key": "PLATEADO",
+    "section": "COLORES",
+    "gif": "words/COLORES/PLATEADO.gif",
+    "video": "colores.mp4",
+    "start": 45.88,
+    "end": 49.25,
+    "label": "PLATEADO"
+  },
+  {
+    "key": "DORADO",
+    "section": "COLORES",
+    "gif": "words/COLORES/DORADO.gif",
+    "video": "colores.mp4",
+    "start": 49.62,
+    "end": 53.25,
+    "label": "DORADO"
+  },
+  {
+    "key": "TONO CLARO",
+    "section": "COLORES",
+    "gif": "words/COLORES/TONO_CLARO.gif",
+    "video": "colores.mp4",
+    "start": 53.5,
+    "end": 57.5,
+    "label": null
+  },
+  {
+    "key": "MORADO CLARO",
+    "section": "COLORES",
+    "gif": "words/COLORES/MORADO_CLARO.gif",
+    "video": "colores.mp4",
+    "start": 57.75,
+    "end": 60.75,
+    "label": "MORADO CLARO"
+  },
+  {
+    "key": "AZUL CLARO",
+    "section": "COLORES",
+    "gif": "words/COLORES/AZUL_CLARO.gif",
+    "video": "colores.mp4",
+    "start": 61.12,
+    "end": 64.25,
+    "label": "AZULCLARO"
+  },
+  {
+    "key": "VERDE CLARO",
+    "section": "COLORES",
+    "gif": "words/COLORES/VERDE_CLARO.gif",
+    "video": "colores.mp4",
+    "start": 64.88,
+    "end": 68.25,
+    "label": "VERDE CLARO"
+  },
+  {
+    "key": "TONO OSCURO",
+    "section": "COLORES",
+    "gif": "words/COLORES/TONO_OSCURO.gif",
+    "video": "colores.mp4",
+    "start": 68.5,
+    "end": 71.5,
+    "label": null
+  },
+  {
+    "key": "ROJO OSCURO",
+    "section": "COLORES",
+    "gif": "words/COLORES/ROJO_OSCURO.gif",
+    "video": "colores.mp4",
+    "start": 71.5,
+    "end": 75.75,
+    "label": null
+  },
+  {
+    "key": "AMARILLO OSCURO",
+    "section": "COLORES",
+    "gif": "words/COLORES/AMARILLO_OSCURO.gif",
+    "video": "colores.mp4",
+    "start": 75.75,
+    "end": 79.75,
+    "label": null
+  },
+  {
+    "key": "ROSADO OSCURO",
+    "section": "COLORES",
+    "gif": "words/COLORES/ROSADO_OSCURO.gif",
+    "video": "colores.mp4",
+    "start": 79.75,
+    "end": 83.5,
+    "label": null
+  },
+  {
+    "key": "BRILLANTE",
+    "section": "COLORES",
+    "gif": "words/COLORES/BRILLANTE.gif",
+    "video": "colores.mp4",
+    "start": 83.75,
+    "end": 87.75,
+    "label": "BRILLANTE"
+  },
+  {
+    "key": "TONO NEÓN",
+    "section": "COLORES",
+    "gif": "words/COLORES/TONO_NEON.gif",
+    "video": "colores.mp4",
+    "start": 88.12,
+    "end": 91.5,
+    "label": "TONO NEON"
+  },
+  {
+    "key": "VERDE NEÓN",
+    "section": "COLORES",
+    "gif": "words/COLORES/VERDE_NEON.gif",
+    "video": "colores.mp4",
+    "start": 92.0,
+    "end": 95.5,
+    "label": "VERDENEON"
+  },
+  {
+    "key": "NARANJA NEÓN",
+    "section": "COLORES",
+    "gif": "words/COLORES/NARANJA_NEON.gif",
+    "video": "colores.mp4",
+    "start": 96.0,
+    "end": 100.0,
+    "label": "NARANA NEON"
+  },
+  {
+    "key": "TRANSPARENTE",
+    "section": "COLORES",
+    "gif": "words/COLORES/TRANSPARENTE.gif",
+    "video": "colores.mp4",
+    "start": 100.5,
+    "end": 104.85,
+    "label": "TRANSPARENTE"
+  },
+  {
+    "key": "RAZA NEGRA",
+    "section": "COLORES",
+    "gif": "words/COLORES/RAZA_NEGRA.gif",
+    "video": "colores.mp4",
+    "start": 105.2,
+    "end": 110.0,
+    "label": null
+  },
+  {
+    "key": "RAZA MORENA",
+    "section": "COLORES",
+    "gif": "words/COLORES/RAZA_MORENA.gif",
+    "video": "colores.mp4",
+    "start": 110.0,
+    "end": 115.25,
+    "label": null
+  },
+  {
+    "key": "RAZA BLANCA",
+    "section": "COLORES",
+    "gif": "words/COLORES/RAZA_BLANCA.gif",
+    "video": "colores.mp4",
+    "start": 115.25,
+    "end": 118.5,
+    "label": null
+  },
+  {
+    "key": "EMPEZAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/EMPEZAR.gif",
+    "video": "verbos1.mp4",
+    "start": 7.5,
+    "end": 11.0,
+    "label": "EMPEZAR"
+  },
+  {
+    "key": "COMER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/COMER.gif",
+    "video": "verbos1.mp4",
+    "start": 11.5,
+    "end": 15.0,
+    "label": "COMER"
+  },
+  {
+    "key": "TOMAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/TOMAR.gif",
+    "video": "verbos1.mp4",
+    "start": 15.5,
+    "end": 19.0,
+    "label": "TOMAR"
+  },
+  {
+    "key": "BAÑARSE",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/BANARSE.gif",
+    "video": "verbos1.mp4",
+    "start": 19.5,
+    "end": 23.0,
+    "label": "BANARSE"
+  },
+  {
+    "key": "COCINAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/COCINAR.gif",
+    "video": "verbos1.mp4",
+    "start": 23.5,
+    "end": 27.25,
+    "label": "COCINAR"
+  },
+  {
+    "key": "JUGAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/JUGAR.gif",
+    "video": "verbos1.mp4",
+    "start": 27.88,
+    "end": 30.5,
+    "label": "JUGAR"
+  },
+  {
+    "key": "ESCRIBIR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/ESCRIBIR.gif",
+    "video": "verbos1.mp4",
+    "start": 31.25,
+    "end": 34.0,
+    "label": "ESCRIBIR"
+  },
+  {
+    "key": "LEER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/LEER.gif",
+    "video": "verbos1.mp4",
+    "start": 35.0,
+    "end": 38.5,
+    "label": "LEER"
+  },
+  {
+    "key": "MIRAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/MIRAR.gif",
+    "video": "verbos1.mp4",
+    "start": 39.5,
+    "end": 42.75,
+    "label": "MIRAR"
+  },
+  {
+    "key": "CAMINAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/CAMINAR.gif",
+    "video": "verbos1.mp4",
+    "start": 43.88,
+    "end": 51.5,
+    "label": "CAMINAR"
+  },
+  {
+    "key": "CORRER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/CORRER.gif",
+    "video": "verbos1.mp4",
+    "start": 52.25,
+    "end": 55.0,
+    "label": "CORRER"
+  },
+  {
+    "key": "SALTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/SALTAR.gif",
+    "video": "verbos1.mp4",
+    "start": 55.75,
+    "end": 59.0,
+    "label": "SALTAR"
+  },
+  {
+    "key": "CANTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/CANTAR.gif",
+    "video": "verbos1.mp4",
+    "start": 59.5,
+    "end": 64.25,
+    "label": "CANTAR"
+  },
+  {
+    "key": "BAILAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/BAILAR.gif",
+    "video": "verbos1.mp4",
+    "start": 64.88,
+    "end": 68.25,
+    "label": "BAILAR"
+  },
+  {
+    "key": "DIBUJAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/DIBUJAR.gif",
+    "video": "verbos1.mp4",
+    "start": 68.88,
+    "end": 72.75,
+    "label": "DIBUJAR"
+  },
+  {
+    "key": "PINTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/PINTAR.gif",
+    "video": "verbos1.mp4",
+    "start": 73.38,
+    "end": 77.75,
+    "label": "PINTAR"
+  },
+  {
+    "key": "VIAJAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/VIAJAR.gif",
+    "video": "verbos1.mp4",
+    "start": 78.38,
+    "end": 84.5,
+    "label": "VIAJAR"
+  },
+  {
+    "key": "TRABAJAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/TRABAJAR.gif",
+    "video": "verbos1.mp4",
+    "start": 85.0,
+    "end": 87.25,
+    "label": "TRABAAR"
+  },
+  {
+    "key": "ESTUDIAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/ESTUDIAR.gif",
+    "video": "verbos1.mp4",
+    "start": 88.38,
+    "end": 91.75,
+    "label": "ESTUDIAR"
+  },
+  {
+    "key": "PRACTICAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/PRACTICAR.gif",
+    "video": "verbos1.mp4",
+    "start": 92.62,
+    "end": 96.25,
+    "label": "PRACTICAR"
+  },
+  {
+    "key": "APRENDER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/APRENDER.gif",
+    "video": "verbos1.mp4",
+    "start": 96.88,
+    "end": 101.0,
+    "label": "APRENDER"
+  },
+  {
+    "key": "HACER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/HACER.gif",
+    "video": "verbos1.mp4",
+    "start": 101.5,
+    "end": 105.0,
+    "label": "HACER"
+  },
+  {
+    "key": "TENER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/TENER.gif",
+    "video": "verbos1.mp4",
+    "start": 105.5,
+    "end": 110.5,
+    "label": "TENER"
+  },
+  {
+    "key": "ROBAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/ROBAR.gif",
+    "video": "verbos1.mp4",
+    "start": 111.0,
+    "end": 120.0,
+    "label": "ROBAR"
+  },
+  {
+    "key": "INVITAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/INVITAR.gif",
+    "video": "verbos1.mp4",
+    "start": 120.5,
+    "end": 124.0,
+    "label": "INVITAR"
+  },
+  {
+    "key": "OLVIDAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/OLVIDAR.gif",
+    "video": "verbos1.mp4",
+    "start": 124.5,
+    "end": 128.5,
+    "label": "OLVIDAR"
+  },
+  {
+    "key": "RECORDAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/RECORDAR.gif",
+    "video": "verbos1.mp4",
+    "start": 129.0,
+    "end": 132.0,
+    "label": "RECORDAR"
+  },
+  {
+    "key": "PENSAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/PENSAR.gif",
+    "video": "verbos1.mp4",
+    "start": 132.5,
+    "end": 136.0,
+    "label": "PENSAR"
+  },
+  {
+    "key": "MENTIR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/MENTIR.gif",
+    "video": "verbos1.mp4",
+    "start": 136.5,
+    "end": 140.0,
+    "label": "MENTIR"
+  },
+  {
+    "key": "DECIR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/DECIR.gif",
+    "video": "verbos1.mp4",
+    "start": 140.5,
+    "end": 143.5,
+    "label": "DECIR"
+  },
+  {
+    "key": "TRAER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/TRAER.gif",
+    "video": "verbos1.mp4",
+    "start": 144.0,
+    "end": 146.0,
+    "label": "TRAER"
+  },
+  {
+    "key": "COMUNICAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/COMUNICAR.gif",
+    "video": "verbos1.mp4",
+    "start": 146.75,
+    "end": 151.0,
+    "label": "COMUNICAR"
+  },
+  {
+    "key": "PERDER",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/PERDER.gif",
+    "video": "verbos1.mp4",
+    "start": 151.5,
+    "end": 160.0,
+    "label": "PERDER"
+  },
+  {
+    "key": "TERMINAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/TERMINAR.gif",
+    "video": "verbos1.mp4",
+    "start": 160.5,
+    "end": 164.0,
+    "label": "TERMINAR"
+  },
+  {
+    "key": "ELEGIR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/ELEGIR.gif",
+    "video": "verbos1.mp4",
+    "start": 164.5,
+    "end": 167.75,
+    "label": "ELEGIR"
+  },
+  {
+    "key": "CONTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/CONTAR.gif",
+    "video": "verbos1.mp4",
+    "start": 168.12,
+    "end": 172.5,
+    "label": "INFORMAR"
+  },
+  {
+    "key": "CORREGIR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/CORREGIR.gif",
+    "video": "verbos1.mp4",
+    "start": 173.0,
+    "end": 178.5,
+    "label": "CORREGIR"
+  },
+  {
+    "key": "IMITAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/IMITAR.gif",
+    "video": "verbos1.mp4",
+    "start": 179.0,
+    "end": 183.0,
+    "label": null
+  },
+  {
+    "key": "DÍAS DE LA SEMANA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/DIAS_DE_LA_SEMANA.gif",
+    "video": "tiempos1.mp4",
+    "start": 7.75,
+    "end": 13.0,
+    "label": null
+  },
+  {
+    "key": "LUNES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/LUNES.gif",
+    "video": "tiempos1.mp4",
+    "start": 13.75,
+    "end": 17.0,
+    "label": "LUNES"
+  },
+  {
+    "key": "MARTES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MARTES.gif",
+    "video": "tiempos1.mp4",
+    "start": 17.5,
+    "end": 21.0,
+    "label": "MARTES"
+  },
+  {
+    "key": "MIERCOLES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MIERCOLES.gif",
+    "video": "tiempos1.mp4",
+    "start": 21.5,
+    "end": 25.75,
+    "label": "MIIERCOLES"
+  },
+  {
+    "key": "JUEVES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/JUEVES.gif",
+    "video": "tiempos1.mp4",
+    "start": 27.88,
+    "end": 33.0,
+    "label": "JUEVES"
+  },
+  {
+    "key": "VIERNES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/VIERNES.gif",
+    "video": "tiempos1.mp4",
+    "start": 33.5,
+    "end": 36.5,
+    "label": "VIERNES"
+  },
+  {
+    "key": "SÁBADO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/SABADO.gif",
+    "video": "tiempos1.mp4",
+    "start": 37.0,
+    "end": 40.25,
+    "label": "SABADO"
+  },
+  {
+    "key": "DOMINGO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/DOMINGO.gif",
+    "video": "tiempos1.mp4",
+    "start": 40.62,
+    "end": 43.75,
+    "label": "DOMINGO"
+  },
+  {
+    "key": "DÍA FESTIVO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/DIA_FESTIVO.gif",
+    "video": "tiempos1.mp4",
+    "start": 44.12,
+    "end": 48.75,
+    "label": "DIA FESTIVO"
+  },
+  {
+    "key": "FIN DE SEMANA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/FIN_DE_SEMANA.gif",
+    "video": "tiempos1.mp4",
+    "start": 49.0,
+    "end": 53.5,
+    "label": null
+  },
+  {
+    "key": "MESES DEL AÑO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MESES_DEL_ANO.gif",
+    "video": "tiempos1.mp4",
+    "start": 54.0,
+    "end": 59.0,
+    "label": null
+  },
+  {
+    "key": "ENERO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/ENERO.gif",
+    "video": "tiempos1.mp4",
+    "start": 59.5,
+    "end": 62.75,
+    "label": "ENERO"
+  },
+  {
+    "key": "FEBRERO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/FEBRERO.gif",
+    "video": "tiempos1.mp4",
+    "start": 63.12,
+    "end": 66.25,
+    "label": "FEBRERO"
+  },
+  {
+    "key": "MARZO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MARZO.gif",
+    "video": "tiempos1.mp4",
+    "start": 66.88,
+    "end": 70.5,
+    "label": "MIARZO"
+  },
+  {
+    "key": "ABRIL",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/ABRIL.gif",
+    "video": "tiempos1.mp4",
+    "start": 72.25,
+    "end": 76.5,
+    "label": "ABRIL"
+  },
+  {
+    "key": "MAYO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MAYO.gif",
+    "video": "tiempos1.mp4",
+    "start": 77.0,
+    "end": 80.0,
+    "label": "MAYO"
+  },
+  {
+    "key": "JUNIO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/JUNIO.gif",
+    "video": "tiempos1.mp4",
+    "start": 81.0,
+    "end": 84.5,
+    "label": "JUNIO"
+  },
+  {
+    "key": "JULIO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/JULIO.gif",
+    "video": "tiempos1.mp4",
+    "start": 85.0,
+    "end": 88.5,
+    "label": "JULIO"
+  },
+  {
+    "key": "AGOSTO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/AGOSTO.gif",
+    "video": "tiempos1.mp4",
+    "start": 89.0,
+    "end": 91.25,
+    "label": "AGOSTO"
+  },
+  {
+    "key": "SEPTIEMBRE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/SEPTIEMBRE.gif",
+    "video": "tiempos1.mp4",
+    "start": 93.0,
+    "end": 97.5,
+    "label": null
+  },
+  {
+    "key": "OCTUBRE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/OCTUBRE.gif",
+    "video": "tiempos1.mp4",
+    "start": 97.0,
+    "end": 100.0,
+    "label": "OCTUBRE"
+  },
+  {
+    "key": "NOVIEMBRE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/NOVIEMBRE.gif",
+    "video": "tiempos1.mp4",
+    "start": 101.0,
+    "end": 105.0,
+    "label": null
+  },
+  {
+    "key": "DICIEMBRE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/DICIEMBRE.gif",
+    "video": "tiempos1.mp4",
+    "start": 105.25,
+    "end": 108.0,
+    "label": "DICIEMBRE"
+  },
+  {
+    "key": "AÑO PRESENTE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/ANO_PRESENTE.gif",
+    "video": "tiempos1.mp4",
+    "start": 108.5,
+    "end": 114.25,
+    "label": "PRESENTE"
+  },
+  {
+    "key": "AÑO PASADO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/ANO_PASADO.gif",
+    "video": "tiempos1.mp4",
+    "start": 114.62,
+    "end": 120.0,
+    "label": "ANO PASADO"
+  },
+  {
+    "key": "CALENDARIO",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/CALENDARIO.gif",
+    "video": "tiempos1.mp4",
+    "start": 120.5,
+    "end": 128.25,
+    "label": "CALENDARIO"
+  },
+  {
+    "key": "FECHA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/FECHA.gif",
+    "video": "tiempos1.mp4",
+    "start": 128.88,
+    "end": 131.75,
+    "label": "FECHA"
+  },
+  {
+    "key": "VACACIONES",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/VACACIONES.gif",
+    "video": "tiempos1.mp4",
+    "start": 132.88,
+    "end": 136.5,
+    "label": "VACACIONES"
+  },
+  {
+    "key": "SEMANA SANTA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/SEMANA_SANTA.gif",
+    "video": "tiempos1.mp4",
+    "start": 137.0,
+    "end": 142.0,
+    "label": null
+  },
+  {
+    "key": "HOY",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/HOY.gif",
+    "video": "tiempos1.mp4",
+    "start": 142.25,
+    "end": 145.0,
+    "label": "HOY"
+  },
+  {
+    "key": "MAÑANA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/MANANA.gif",
+    "video": "tiempos1.mp4",
+    "start": 146.5,
+    "end": 150.38,
+    "label": "MANANA"
+  },
+  {
+    "key": "PASADO MAÑANA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/PASADO_MANANA.gif",
+    "video": "tiempos1.mp4",
+    "start": 150.75,
+    "end": 155.0,
+    "label": null
+  },
+  {
+    "key": "AYER",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/AYER.gif",
+    "video": "tiempos1.mp4",
+    "start": 155.25,
+    "end": 160.25,
+    "label": "AYER"
+  },
+  {
+    "key": "ANTEAYER",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/ANTEAYER.gif",
+    "video": "tiempos1.mp4",
+    "start": 160.88,
+    "end": 168.5,
+    "label": "ANTEAYER"
+  },
+  {
+    "key": "CUMPLEAÑOS",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/CUMPLEANOS.gif",
+    "video": "tiempos1.mp4",
+    "start": 169.0,
+    "end": 171.75,
+    "label": "CUMPLEANOS"
+  },
+  {
+    "key": "EN LA MAÑANA",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/EN_LA_MANANA.gif",
+    "video": "tiempos1.mp4",
+    "start": 172.0,
+    "end": 176.0,
+    "label": null
+  },
+  {
+    "key": "EN LA TARDE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/EN_LA_TARDE.gif",
+    "video": "tiempos1.mp4",
+    "start": 176.25,
+    "end": 179.0,
+    "label": "EN LA TARDE"
+  },
+  {
+    "key": "EN LA NOCHE",
+    "section": "TIEMPOS 1",
+    "gif": "words/TIEMPOS_1/EN_LA_NOCHE.gif",
+    "video": "tiempos1.mp4",
+    "start": 179.5,
+    "end": 182.5,
+    "label": null
+  },
+  {
+    "key": "A",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/A.gif",
+    "video": "abcedario.mp4",
+    "start": 4.0,
+    "end": 8.5,
+    "label": null
+  },
+  {
+    "key": "B",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/B.gif",
+    "video": "abcedario.mp4",
+    "start": 8.5,
+    "end": 10.75,
+    "label": null
+  },
+  {
+    "key": "C",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/C.gif",
+    "video": "abcedario.mp4",
+    "start": 10.75,
+    "end": 13.5,
+    "label": null
+  },
+  {
+    "key": "D",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/D.gif",
+    "video": "abcedario.mp4",
+    "start": 13.5,
+    "end": 17.5,
+    "label": null
+  },
+  {
+    "key": "E",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/E.gif",
+    "video": "abcedario.mp4",
+    "start": 17.5,
+    "end": 19.5,
+    "label": null
+  },
+  {
+    "key": "F",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/F.gif",
+    "video": "abcedario.mp4",
+    "start": 19.5,
+    "end": 23.5,
+    "label": null
+  },
+  {
+    "key": "G",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/G.gif",
+    "video": "abcedario.mp4",
+    "start": 23.5,
+    "end": 30.5,
+    "label": null
+  },
+  {
+    "key": "H",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/H.gif",
+    "video": "abcedario.mp4",
+    "start": 30.5,
+    "end": 34.5,
+    "label": null
+  },
+  {
+    "key": "I",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/I.gif",
+    "video": "abcedario.mp4",
+    "start": 34.5,
+    "end": 36.5,
+    "label": null
+  },
+  {
+    "key": "J",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/J.gif",
+    "video": "abcedario.mp4",
+    "start": 36.5,
+    "end": 38.5,
+    "label": null
+  },
+  {
+    "key": "K",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/K.gif",
+    "video": "abcedario.mp4",
+    "start": 38.5,
+    "end": 41.5,
+    "label": null
+  },
+  {
+    "key": "L",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/L.gif",
+    "video": "abcedario.mp4",
+    "start": 41.5,
+    "end": 44.5,
+    "label": null
+  },
+  {
+    "key": "M",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/M.gif",
+    "video": "abcedario.mp4",
+    "start": 44.5,
+    "end": 48.5,
+    "label": null
+  },
+  {
+    "key": "N",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/N.gif",
+    "video": "abcedario.mp4",
+    "start": 48.5,
+    "end": 51.5,
+    "label": null
+  },
+  {
+    "key": "Ñ",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/ENYE.gif",
+    "video": "abcedario.mp4",
+    "start": 51.5,
+    "end": 54.5,
+    "label": null
+  },
+  {
+    "key": "O",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/O.gif",
+    "video": "abcedario.mp4",
+    "start": 54.5,
+    "end": 58.5,
+    "label": null
+  },
+  {
+    "key": "P",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/P.gif",
+    "video": "abcedario.mp4",
+    "start": 58.5,
+    "end": 63.5,
+    "label": null
+  },
+  {
+    "key": "Q",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/Q.gif",
+    "video": "abcedario.mp4",
+    "start": 63.5,
+    "end": 66.5,
+    "label": null
+  },
+  {
+    "key": "R",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/R.gif",
+    "video": "abcedario.mp4",
+    "start": 66.5,
+    "end": 68.5,
+    "label": null
+  },
+  {
+    "key": "S",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/S.gif",
+    "video": "abcedario.mp4",
+    "start": 68.5,
+    "end": 71.5,
+    "label": null
+  },
+  {
+    "key": "T",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/T.gif",
+    "video": "abcedario.mp4",
+    "start": 71.5,
+    "end": 74.5,
+    "label": null
+  },
+  {
+    "key": "U",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/U.gif",
+    "video": "abcedario.mp4",
+    "start": 74.5,
+    "end": 77.5,
+    "label": null
+  },
+  {
+    "key": "V",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/V.gif",
+    "video": "abcedario.mp4",
+    "start": 77.5,
+    "end": 79.5,
+    "label": null
+  },
+  {
+    "key": "W",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/W.gif",
+    "video": "abcedario.mp4",
+    "start": 79.5,
+    "end": 81.5,
+    "label": null
+  },
+  {
+    "key": "X",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/X.gif",
+    "video": "abcedario.mp4",
+    "start": 81.5,
+    "end": 85.5,
+    "label": null
+  },
+  {
+    "key": "Y",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/Y.gif",
+    "video": "abcedario.mp4",
+    "start": 85.5,
+    "end": 89.5,
+    "label": null
+  },
+  {
+    "key": "Z",
+    "section": "ABECEDARIO",
+    "gif": "words/ABECEDARIO/Z.gif",
+    "video": "abcedario.mp4",
+    "start": 89.5,
+    "end": 92.0,
+    "label": null
+  }
+]
