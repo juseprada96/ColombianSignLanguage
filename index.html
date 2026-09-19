@@ -45,12 +45,32 @@
         <p id="spell-error" class="spell-error" role="alert" hidden></p>
         <div id="spell-output" class="spell-output" aria-live="polite"></div>
       </section>
+
+      <!-- Practice view -->
+      <section id="view-practice" class="view" aria-labelledby="practice-title" hidden>
+        <h2 id="practice-title">Práctica</h2>
+        <div class="practice-toolbar">
+          <label class="practice-filter">Categoría
+            <select id="practice-category"></select>
+          </label>
+          <button type="button" id="practice-next" class="btn">Otra frase</button>
+        </div>
+        <p id="practice-error" class="status error" hidden></p>
+        <article id="practice-card" class="practice-card" hidden>
+          <p id="practice-cat" class="practice-cat"></p>
+          <p id="practice-key" class="practice-key"></p>
+          <p class="practice-signos"><span class="practice-signos-label">Estructura en señas:</span> <span id="practice-signos"></span></p>
+          <button type="button" id="practice-reveal" class="btn primary">Mostrar solución</button>
+          <div id="practice-solution" class="practice-solution" hidden></div>
+        </article>
+      </section>
     </main>
 
     <aside class="side-nav">
       <nav aria-label="Vistas">
         <button type="button" data-view="dictionary" class="active">Diccionario</button>
         <button type="button" data-view="spell">Deletreo</button>
+        <button type="button" data-view="practice">Práctica</button>
       </nav>
     </aside>
   </div>

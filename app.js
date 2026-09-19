@@ -152,6 +152,31 @@ function letterImagePath(letter) {
   return `letters/${letter === "Ñ" ? "ENYE" : letter}.png`;
 }
 
+function letterTiles(text) {
+  const fragment = document.createDocumentFragment();
+  const words = text.trim().split(/\s+/).filter(Boolean);
+  words.forEach((word, index) => {
+    if (index > 0) {
+      fragment.append(el("span", { className: "word-space", ariaHidden: "true" }));
+    }
+    for (const raw of word) {
+      const letter = foldLetter(raw);
+      if (letter.length === 1 && LETTER_SET.includes(letter)) {
+        const path = letterImagePath(letter);
+        const img = el("img", {
+          className: "letter",
+          src: path,
+          alt: letter,
+          loading: "lazy",
+        });
+        img.addEventListener("click", () => openLightbox(letter, path));
+        fragment.append(img);
+      }
+    }
+  });
+  return fragment;
+}
+
 function buildSpelling(text) {
   const output = document.getElementById("spell-output");
   const errorEl = document.getElementById("spell-error");
@@ -174,24 +199,132 @@ function buildSpelling(text) {
     return;
   }
 
-  const words = text.trim().split(/\s+/).filter(Boolean);
-  const fragment = document.createDocumentFragment();
-  words.forEach((word, index) => {
-    if (index > 0) {
-      fragment.append(el("span", { className: "word-space", ariaHidden: "true" }));
+  output.append(letterTiles(text));
+}
+
+/* ---------- practice ---------- */
+const practice = { all: [], vocabIndex: new Map(), current: null };
+
+function buildVocabIndex(vocabulary) {
+  const index = new Map();
+  for (const words of Object.values(vocabulary)) {
+    for (const [key, path] of Object.entries(words)) {
+      index.set(normalize(key), { key, path: String(path) });
     }
-    for (const raw of word) {
-      const letter = foldLetter(raw);
+  }
+  return index;
+}
+
+function flattenFrases(frases) {
+  const list = [];
+  for (const [category, phrases] of Object.entries(frases)) {
+    for (const phrase of phrases) list.push({ category, phrase });
+  }
+  return list;
+}
+
+function setupPractice(vocabulary, frases) {
+  practice.vocabIndex = buildVocabIndex(vocabulary);
+  practice.all = flattenFrases(frases);
+
+  const select = document.getElementById("practice-category");
+  select.textContent = "";
+  select.append(el("option", { value: "", textContent: "Todas" }));
+  for (const category of Object.keys(frases)) {
+    select.append(el("option", { value: category, textContent: category }));
+  }
+
+  select.addEventListener("change", nextPhrase);
+  document.getElementById("practice-next").addEventListener("click", nextPhrase);
+  document.getElementById("practice-reveal").addEventListener("click", toggleSolution);
+  document.getElementById("practice-error").hidden = true;
+
+  nextPhrase();
+}
+
+function nextPhrase() {
+  const filter = document.getElementById("practice-category").value;
+  const pool = filter ? practice.all.filter((p) => p.category === filter) : practice.all;
+  if (!pool.length) return;
+
+  let pick = pool[Math.floor(Math.random() * pool.length)];
+  if (pool.length > 1 && practice.current && pick.phrase === practice.current.phrase) {
+    pick = pool[(pool.indexOf(pick) + 1) % pool.length];
+  }
+  practice.current = pick;
+  renderPhrase(pick);
+}
+
+function updateRevealButton(revealed) {
+  document.getElementById("practice-reveal").textContent = revealed
+    ? "Ocultar solución"
+    : "Mostrar solución";
+}
+
+function renderPhrase({ category, phrase }) {
+  document.getElementById("practice-card").hidden = false;
+  document.getElementById("practice-cat").textContent = category;
+  document.getElementById("practice-key").textContent = phrase.KEY;
+  document.getElementById("practice-signos").textContent = phrase.SIGNOS.join(" · ");
+
+  const solution = document.getElementById("practice-solution");
+  solution.textContent = "";
+  solution.hidden = true;
+  updateRevealButton(false);
+}
+
+function toggleSolution() {
+  const solution = document.getElementById("practice-solution");
+  if (solution.hidden) {
+    renderSolution(practice.current.phrase);
+    solution.hidden = false;
+    updateRevealButton(true);
+  } else {
+    solution.hidden = true;
+    updateRevealButton(false);
+  }
+}
+
+function renderSolution(phrase) {
+  const solution = document.getElementById("practice-solution");
+  if (solution.childElementCount) return;
+
+  const fragment = document.createDocumentFragment();
+  for (const token of phrase.SIGNOS) {
+    if (token.startsWith("@")) {
+      const name = token.slice(1);
+      const group = el("div", { className: "solution-name" }, [
+        el("span", { className: "solution-name-label", textContent: name }),
+      ]);
+      group.append(letterTiles(name));
+      fragment.append(group);
+      continue;
+    }
+
+    const hit = practice.vocabIndex.get(normalize(token));
+    if (hit) {
+      const img = el("img", { src: hit.path, alt: hit.key, loading: "lazy" });
+      img.addEventListener("click", () => openLightbox(hit.key, hit.path));
       fragment.append(
-        el("img", { className: "letter", src: letterImagePath(letter), alt: letter })
+        el("figure", { className: "card solution-card" }, [
+          img,
+          el("figcaption", { textContent: hit.key }),
+        ])
+      );
+    } else {
+      fragment.append(
+        el("div", { className: "solution-missing" }, [
+          el("span", { className: "missing-token", textContent: token }),
+          el("span", { className: "missing-note", textContent: "signo pendiente" }),
+        ])
       );
     }
-  });
-  output.append(fragment);
+  }
+  solution.append(fragment);
 }
 
 /* ---------- views (tabs) ---------- */
-const VIEWS = ["dictionary", "spell"];
+const VIEWS = ["dictionary", "spell", "practice"];
 
 function showView(name, updateHash = true) {
   if (!VIEWS.includes(name)) name = "dictionary";
@@ -265,6 +398,17 @@ async function init() {
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
     const vocabulary = await response.json();
     render(vocabulary);
+
+    try {
+      const fres = await fetch("frases.json", { cache: "no-cache" });
+      if (!fres.ok) throw new Error(`HTTP ${fres.status}`);
+      setupPractice(vocabulary, await fres.json());
+    } catch (err) {
+      const practiceError = document.getElementById("practice-error");
+      practiceError.textContent = "No se pudieron cargar las frases de práctica.";
+      practiceError.hidden = false;
+      console.error(err);
+    }
   } catch (error) {
     status.classList.add("error");
     status.textContent =
