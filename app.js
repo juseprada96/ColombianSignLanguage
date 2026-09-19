@@ -137,6 +137,59 @@ function openLightbox(key, path) {
   box.hidden = false;
 }
 
+/* ---------- spelling (static alphabet) ---------- */
+const LETTER_SET = "ABCDEFGHIJKLMNÑOPQRSTUVWXYZ";
+
+function foldLetter(ch) {
+  if (ch === "Ñ" || ch === "ñ") return "Ñ";
+  return ch
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .toUpperCase();
+}
+
+function letterImagePath(letter) {
+  return `letters/${letter === "Ñ" ? "ENYE" : letter}.png`;
+}
+
+function buildSpelling(text) {
+  const output = document.getElementById("spell-output");
+  const errorEl = document.getElementById("spell-error");
+  output.textContent = "";
+  errorEl.hidden = true;
+  errorEl.textContent = "";
+
+  const invalid = [];
+  for (const raw of text) {
+    if (/\s/.test(raw)) continue;
+    const letter = foldLetter(raw);
+    if (!(letter.length === 1 && LETTER_SET.includes(letter)) && !invalid.includes(raw)) {
+      invalid.push(raw);
+    }
+  }
+  if (invalid.length) {
+    errorEl.textContent =
+      `No se permiten números ni símbolos: ${invalid.join(" ")}. Usa solo letras.`;
+    errorEl.hidden = false;
+    return;
+  }
+
+  const words = text.trim().split(/\s+/).filter(Boolean);
+  const fragment = document.createDocumentFragment();
+  words.forEach((word, index) => {
+    if (index > 0) {
+      fragment.append(el("span", { className: "word-space", ariaHidden: "true" }));
+    }
+    for (const raw of word) {
+      const letter = foldLetter(raw);
+      fragment.append(
+        el("img", { className: "letter", src: letterImagePath(letter), alt: letter })
+      );
+    }
+  });
+  output.append(fragment);
+}
+
 /* ---------- render ---------- */
 function render(vocabulary) {
   const content = document.getElementById("content");
@@ -159,12 +212,19 @@ function render(vocabulary) {
   applyFilter();
 }
 
+let started = false;
+
 async function init() {
+  if (started) return;
+  started = true;
+
   const status = document.getElementById("status");
   const search = document.getElementById("search");
   const clear = document.getElementById("clear");
+  const spellInput = document.getElementById("spell-input");
 
   search.addEventListener("input", applyFilter);
+  spellInput.addEventListener("input", () => buildSpelling(spellInput.value));
   clear.addEventListener("click", () => {
     search.value = "";
     search.focus();

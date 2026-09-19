@@ -214,6 +214,67 @@ main {
   cursor: pointer;
 }
 
+/* ---------- spelling ---------- */
+.spell-section { scroll-margin-top: 150px; }
+
+.spell-help {
+  margin: 0 0 12px;
+  color: var(--muted);
+  font-size: .92rem;
+}
+
+.spell-input {
+  width: 100%;
+  padding: 12px 14px;
+  font-size: 1rem;
+  color: var(--text);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  outline: none;
+  transition: border-color .15s, box-shadow .15s;
+}
+.spell-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--accent) 25%, transparent);
+}
+
+.spell-error {
+  margin: 10px 0 0;
+  color: #dc2626;
+  font-size: .9rem;
+}
+
+.spell-output {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 10px;
+  margin-top: 14px;
+}
+
+.letter {
+  width: 96px;
+  height: 116px;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: var(--shadow);
+}
+
+.word-space {
+  width: 96px;
+  height: 116px;
+  background: var(--surface);
+  border: 1px dashed var(--border);
+  border-radius: 10px;
+}
+
+@media (max-width: 520px) {
+  .letter, .word-space { width: 68px; height: 84px; }
+}
+
 /* ---------- footer ---------- */
 .site-footer {
   max-width: 1200px;

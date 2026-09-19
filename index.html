@@ -18,14 +18,29 @@
         <button id="clear" type="button" class="clear" hidden aria-label="Limpiar búsqueda">×</button>
       </div>
       <div class="meta">
-        <nav id="nav" class="nav" aria-label="Secciones"></nav>
+        <nav id="nav" class="nav" aria-label="Secciones">
+          <a href="#spell">Deletreo</a>
+        </nav>
         <p id="count" class="count" aria-live="polite"></p>
       </div>
     </div>
   </header>
 
-  <main id="content">
-    <p id="status" class="status">Cargando vocabulario…</p>
+  <main>
+    <section id="spell" class="section spell-section" aria-labelledby="spell-title">
+      <h2 id="spell-title">Deletreo</h2>
+      <p class="spell-help">Escribe una palabra o frase para verla con las señas estáticas del abecedario.</p>
+      <input id="spell-input" class="spell-input" type="text"
+             placeholder="Escribe tu nombre o palabra…" autocomplete="off"
+             autocapitalize="characters" spellcheck="false"
+             aria-label="Texto para deletrear">
+      <p id="spell-error" class="spell-error" role="alert" hidden></p>
+      <div id="spell-output" class="spell-output" aria-live="polite"></div>
+    </section>
+
+    <div id="content">
+      <p id="status" class="status">Cargando vocabulario…</p>
+    </div>
   </main>
 
   <footer class="site-footer">
