@@ -2,7 +2,35 @@
   "FAMILIA": [
     {
       "KEY": "Hola buenas noches mi nombre es Juan Sebastian, mi seña es, mi tío se llama Francisco, mi hermano se llama Daniel, mi gata se llama Hana",
-      "SIGNOS": ["Hola", "Buenas noches", "mi nombre", "Mi seña", "mi", "tio", "nombre", "mi", "hermano", "nombre", "mi", "gato", "nombre"]
+      "SIGNOS": [
+        "Hola",
+        "Buenas noches",
+        "mi nombre",
+        "Mi seña",
+        "mi",
+        "tio",
+        "nombre",
+        "mi",
+        "hermano",
+        "nombre",
+        "mi",
+        "gato",
+        "nombre"
+      ]
+    }
+  ],
+  "COLORES": [
+    {
+      "KEY": "A mi hermana le gusta el color negro",
+      "SIGNOS": ["Mi", "hermana", "color", "negro", "gusta"]
+    },
+    {
+      "KEY": "A tu primo le gusta el color rosado",
+      "SIGNOS": ["Tu", "primo", "color", "rosado", "gusta"]
+    },
+    {
+      "KEY": "Mi tia mayra es de raza morena",
+      "SIGNOS": ["MI", "TIA", "RAZA MORENA"]
     }
   ]
 }
