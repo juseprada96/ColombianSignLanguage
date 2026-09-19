@@ -1431,6 +1431,24 @@
     "label": null
   },
   {
+    "key": "GUSTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/GUSTAR.gif",
+    "video": "me gusta.mp4",
+    "start": 0.0,
+    "end": 1.43,
+    "label": null
+  },
+  {
+    "key": "NO GUSTAR",
+    "section": "VERBOS 1",
+    "gif": "words/VERBOS_1/NO_GUSTAR.gif",
+    "video": "no gusta.mp4",
+    "start": 0.0,
+    "end": 1.43,
+    "label": null
+  },
+  {
     "key": "DÍAS DE LA SEMANA",
     "section": "TIEMPOS 1",
     "gif": "words/TIEMPOS_1/DIAS_DE_LA_SEMANA.gif",

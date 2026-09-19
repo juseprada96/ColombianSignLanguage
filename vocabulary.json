@@ -164,7 +164,9 @@
     "ELEGIR": "words/VERBOS_1/ELEGIR.gif",
     "CONTAR": "words/VERBOS_1/CONTAR.gif",
     "CORREGIR": "words/VERBOS_1/CORREGIR.gif",
-    "IMITAR": "words/VERBOS_1/IMITAR.gif"
+    "IMITAR": "words/VERBOS_1/IMITAR.gif",
+    "GUSTAR": "words/VERBOS_1/GUSTAR.gif",
+    "NO GUSTAR": "words/VERBOS_1/NO_GUSTAR.gif"
   },
   "TIEMPOS 1": {
     "DÍAS DE LA SEMANA": "words/TIEMPOS_1/DIAS_DE_LA_SEMANA.gif",
