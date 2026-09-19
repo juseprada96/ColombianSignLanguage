@@ -6,225 +6,229 @@
         "Hola",
         "Buenas noches",
         "mi nombre",
+        "@Juan Sebastian",
         "Mi seña",
         "mi",
         "tio",
         "nombre",
+        "@Francisco",
         "mi",
         "hermano",
         "nombre",
+        "@Daniel",
         "mi",
         "gato",
-        "nombre"
+        "nombre",
+        "@Hana"
       ]
     },
     {
-      "KEY": "Mi mamá se llama Ana",
-      "SIGNOS": ["Mi", "mamá", "nombre", "@Ana"]
+      "KEY": "Mi mamá se llama Ana y mi papá se llama Luis, ellos son muy trabajadores",
+      "SIGNOS": ["Mi", "mamá", "nombre", "@Ana", "y", "mi", "papá", "nombre", "@Luis", "ellos", "trabajar"]
     },
     {
-      "KEY": "Mi papá y mi hermano trabajan juntos",
-      "SIGNOS": ["Mi", "papá", "y", "mi", "hermano", "trabajar"]
+      "KEY": "Mi abuela tiene dos nietos, un niño y una niña que son gemelos",
+      "SIGNOS": ["Mi", "abuela", "tener", "dos", "nieto", "niño", "niña", "gemelos"]
     },
     {
-      "KEY": "Mi abuela tiene dos nietos",
-      "SIGNOS": ["Mi", "abuela", "tener", "dos", "nieto"]
+      "KEY": "Mi prima es joven y mi tía es adulta, las dos viven con mi abuelo",
+      "SIGNOS": ["Mi", "prima", "joven", "mi", "tía", "adulto", "las dos", "vivir", "mi", "abuelo"]
     },
     {
-      "KEY": "Mi prima es joven y bonita",
-      "SIGNOS": ["Mi", "prima", "joven", "bonita"]
+      "KEY": "Nosotros tenemos un bebé y mi hermana tiene dos hijos",
+      "SIGNOS": ["Nosotros", "tener", "bebe", "mi", "hermana", "tener", "dos", "hijo"]
     },
     {
-      "KEY": "Nosotros tenemos un bebé",
-      "SIGNOS": ["Nosotros", "tener", "bebe"]
+      "KEY": "Mi tío Francisco y mi tía Mayra son los padrinos de mi sobrino",
+      "SIGNOS": ["Mi", "tío", "@Francisco", "mi", "tía", "@Mayra", "padrino", "mi", "sobrino"]
     },
     {
-      "KEY": "Mi tío se llama Francisco",
-      "SIGNOS": ["Mi", "tío", "nombre", "@Francisco"]
+      "KEY": "El gato de mi hermana es blanco y el perro de mi abuelo es café",
+      "SIGNOS": ["Mi", "hermana", "gato", "blanco", "mi", "abuelo", "perro", "café"]
     },
     {
-      "KEY": "El gato de mi hermana es blanco",
-      "SIGNOS": ["Mi", "hermana", "gato", "blanco"]
+      "KEY": "Mi sobrino juega con el perro en la casa de mi madrina",
+      "SIGNOS": ["Mi", "sobrino", "jugar", "con", "perro", "casa", "mi", "madrina"]
     },
     {
-      "KEY": "Mi sobrino juega con el perro",
-      "SIGNOS": ["Mi", "sobrino", "jugar", "con", "perro"]
+      "KEY": "Mi madrina vive con mi tía y mis primos en Bogotá",
+      "SIGNOS": ["Mi", "madrina", "con", "mi", "tía", "mi", "primo", "@Bogotá"]
     },
     {
-      "KEY": "Mi madrina vive con mi tía",
-      "SIGNOS": ["Mi", "madrina", "con", "mi", "tía"]
+      "KEY": "Los gemelos son mis primos y mi tío es su padrastro",
+      "SIGNOS": ["Gemelos", "mi", "primo", "mi", "tío", "padrastro"]
     },
     {
-      "KEY": "Los gemelos son mis primos",
-      "SIGNOS": ["Gemelos", "mi", "primo"]
+      "KEY": "Mi esposa y yo tenemos una hija joven y un hijo adulto",
+      "SIGNOS": ["Mi", "esposa", "yo", "tener", "hija", "joven", "hijo", "adulto"]
     }
   ],
   "PRONOMBRES": [
     {
-      "KEY": "Hola, mucho gusto",
-      "SIGNOS": ["Hola", "mucho gusto"]
+      "KEY": "Hola mucho gusto, mi nombre es Ana y tú ¿cómo estás?",
+      "SIGNOS": ["Hola", "mucho gusto", "mi nombre", "@Ana", "tú", "cómo estás"]
     },
     {
-      "KEY": "¿Cómo estás?",
-      "SIGNOS": ["Cómo estás"]
+      "KEY": "Buenos días, ¿cómo estás? ¿cuál es tu nombre y tu seña?",
+      "SIGNOS": ["Buenos días", "cómo estás", "cual", "tu nombre", "tu seña"]
     },
     {
-      "KEY": "¿Cuál es tu nombre?",
-      "SIGNOS": ["Tu nombre", "cual"]
+      "KEY": "Yo soy sordo, él es oyente y ellos son mis amigos",
+      "SIGNOS": ["Yo", "sordo", "él", "oyente", "ellos", "mi", "amigo"]
     },
     {
-      "KEY": "Mi seña es esta",
-      "SIGNOS": ["Mi seña"]
+      "KEY": "¿Dónde vives? ¿quién es ella y cuántos años tienes?",
+      "SIGNOS": ["Dónde vives", "quién", "ella", "cuanto", "año", "tú"]
     },
     {
-      "KEY": "Buenos días, ¿cómo estás?",
-      "SIGNOS": ["Buenos días", "cómo estás"]
+      "KEY": "Gracias por tu ayuda, lo siento por el retraso y permiso",
+      "SIGNOS": ["Gracias", "ayuda", "lo siento", "permiso"]
     },
     {
-      "KEY": "¿Dónde vives?",
-      "SIGNOS": ["Dónde vives"]
+      "KEY": "Nosotros somos amigos y ustedes son mi familia",
+      "SIGNOS": ["Nosotros", "amigo", "ustedes", "mi", "familia"]
     },
     {
-      "KEY": "Yo soy sordo, ¿y tú?",
-      "SIGNOS": ["Yo", "sordo", "tú"]
+      "KEY": "¿Cuál de los dos es tu maestro y cómo se llama?",
+      "SIGNOS": ["Cual de los dos", "tu", "maestro", "cual", "nombre"]
     },
     {
-      "KEY": "Ellos son mis amigos",
-      "SIGNOS": ["Ellos", "mi", "amigo"]
+      "KEY": "Ella es mi maestra y él es mi compañero",
+      "SIGNOS": ["Ella", "mi", "maestra", "él", "mi", "compañero"]
     },
     {
-      "KEY": "Gracias, lo siento por el retraso",
-      "SIGNOS": ["Gracias", "lo siento"]
+      "KEY": "Yo trabajo en la mañana y estudio en la tarde",
+      "SIGNOS": ["Yo", "trabajar", "en la mañana", "estudiar", "en la tarde"]
     },
     {
-      "KEY": "¿Quién es él?",
-      "SIGNOS": ["Quién", "él"]
+      "KEY": "Bienvenido, mucho gusto, ¿de dónde eres?",
+      "SIGNOS": ["Bienvenido", "mucho gusto", "tú", "dónde"]
     }
   ],
   "COLORES": [
     {
-      "KEY": "A mi hermana le gusta el color negro",
-      "SIGNOS": ["Mi", "hermana", "color", "negro", "gustar"]
+      "KEY": "A mi hermana le gusta el color negro y a mí me gusta el color blanco",
+      "SIGNOS": ["Mi", "hermana", "gustar", "color", "negro", "mi", "gustar", "color", "blanco"]
     },
     {
-      "KEY": "A tu primo le gusta el color rosado",
-      "SIGNOS": ["Tu", "primo", "color", "rosado", "gustar"]
+      "KEY": "A tu primo le gusta el color rosado, pero a ti te gusta el azul claro",
+      "SIGNOS": ["Tu", "primo", "gustar", "color", "rosado", "tú", "gustar", "azul claro"]
     },
     {
-      "KEY": "Mi tia mayra es de raza morena",
-      "SIGNOS": ["MI", "TIA", "@Mayra", "RAZA MORENA"]
+      "KEY": "Mi tía Mayra es de raza morena y mi tío es de raza blanca",
+      "SIGNOS": ["MI", "TIA", "@Mayra", "RAZA MORENA", "mi", "tío", "RAZA BLANCA"]
     },
     {
-      "KEY": "Mi casa es de color azul",
-      "SIGNOS": ["Mi", "casa", "color", "azul"]
+      "KEY": "Mi casa es azul, el carro de mi papá es rojo y la moto es negra",
+      "SIGNOS": ["Mi", "casa", "azul", "mi", "papá", "carro", "rojo", "moto", "negro"]
     },
     {
-      "KEY": "El carro de mi papá es rojo",
-      "SIGNOS": ["Mi", "papá", "carro", "rojo"]
+      "KEY": "Me gusta el color verde claro pero no me gusta el morado oscuro",
+      "SIGNOS": ["Mi", "gustar", "color", "verde claro", "no gustar", "color", "morado oscuro"]
     },
     {
-      "KEY": "Me gusta el color verde claro",
-      "SIGNOS": ["Mi", "gustar", "color", "verde claro"]
+      "KEY": "El cielo hoy es gris y el sol es amarillo brillante",
+      "SIGNOS": ["Hoy", "cielo", "gris", "sol", "amarillo", "brillante"]
     },
     {
-      "KEY": "El cielo hoy es gris",
-      "SIGNOS": ["Hoy", "cielo", "gris"]
+      "KEY": "Mi perro tiene pelo café y mi gato tiene pelo blanco",
+      "SIGNOS": ["Mi", "perro", "pelo", "café", "mi", "gato", "pelo", "blanco"]
     },
     {
-      "KEY": "Mi perro tiene pelo café",
-      "SIGNOS": ["Mi", "perro", "pelo", "café"]
+      "KEY": "El vestido morado y la camisa rosada son brillantes",
+      "SIGNOS": ["Vestido", "morado", "camisa", "rosado", "brillante"]
     },
     {
-      "KEY": "El vestido morado es brillante",
-      "SIGNOS": ["Vestido", "morado", "brillante"]
+      "KEY": "La bandera es amarillo, azul y rojo, y el pasto es verde",
+      "SIGNOS": ["Bandera", "amarillo", "azul", "rojo", "pasto", "verde"]
     },
     {
-      "KEY": "La bandera es amarillo, azul y rojo",
-      "SIGNOS": ["Bandera", "amarillo", "azul", "rojo"]
+      "KEY": "Mi abuela tiene el cabello plateado y los ojos café oscuro",
+      "SIGNOS": ["Mi", "abuela", "cabello", "plateado", "ojo", "café oscuro"]
     }
   ],
   "VERBOS": [
     {
-      "KEY": "Mi perro toby corre",
-      "SIGNOS": ["Mi", "Perro", "@Toby", "correr"]
+      "KEY": "Mi perro Toby corre y salta en el parque, luego come su comida",
+      "SIGNOS": ["Mi", "perro", "@Toby", "correr", "saltar", "parque", "comer"]
     },
     {
-      "KEY": "Nosotros empezamos a estudiar",
-      "SIGNOS": ["nosotros", "empezar", "estudiar"]
+      "KEY": "Nosotros empezamos a estudiar y a practicar todos los días",
+      "SIGNOS": ["Nosotros", "empezar", "estudiar", "practicar", "siempre"]
     },
     {
-      "KEY": "Yo quiero comer pizza",
-      "SIGNOS": ["Yo", "comer", "pizza"]
+      "KEY": "Yo quiero comer pizza y tomar jugo con mi hermana",
+      "SIGNOS": ["Yo", "comer", "pizza", "tomar", "jugo", "mi", "hermana"]
     },
     {
-      "KEY": "Mi hermana baila muy bien",
-      "SIGNOS": ["Mi", "hermana", "bailar"]
+      "KEY": "Mi hermana baila y canta muy bien, ella también dibuja",
+      "SIGNOS": ["Mi", "hermana", "bailar", "cantar", "dibujar"]
     },
     {
-      "KEY": "Nosotros vamos a viajar mañana",
-      "SIGNOS": ["Nosotros", "viajar", "mañana"]
+      "KEY": "Nosotros vamos a viajar mañana y luego a trabajar",
+      "SIGNOS": ["Nosotros", "viajar", "mañana", "trabajar"]
     },
     {
-      "KEY": "El niño juega en el parque",
-      "SIGNOS": ["Niño", "jugar", "parque"]
+      "KEY": "El niño juega, salta y corre en el parque",
+      "SIGNOS": ["Niño", "jugar", "saltar", "correr", "parque"]
     },
     {
-      "KEY": "Mi mamá cocina rico",
-      "SIGNOS": ["Mi", "mamá", "cocinar"]
+      "KEY": "Mi mamá cocina y mi papá lee el periódico",
+      "SIGNOS": ["Mi", "mamá", "cocinar", "mi", "papá", "leer", "periódico"]
     },
     {
-      "KEY": "Yo estudio y practico todos los días",
-      "SIGNOS": ["Yo", "estudiar", "practicar", "siempre"]
+      "KEY": "Yo estudio, practico y aprendo con mi maestro",
+      "SIGNOS": ["Yo", "estudiar", "practicar", "aprender", "maestro"]
     },
     {
-      "KEY": "Ella sabe dibujar muy bien",
-      "SIGNOS": ["Ella", "dibujar"]
+      "KEY": "Ella sabe dibujar y pintar muy bien",
+      "SIGNOS": ["Ella", "dibujar", "pintar"]
     },
     {
-      "KEY": "No me gusta correr",
-      "SIGNOS": ["Mi", "no gustar", "correr"]
+      "KEY": "No me gusta correr ni saltar, me gusta caminar",
+      "SIGNOS": ["Mi", "no gustar", "correr", "saltar", "mi", "gustar", "caminar"]
     }
   ],
   "TIEMPOS": [
     {
-      "KEY": "El miercoles pasado viaje con mi perro",
-      "SIGNOS": ["Miercoles", "pasado", "yo", "viajar", "con", "mi", "perro"]
+      "KEY": "El miércoles pasado viajé con mi perro al parque en la mañana",
+      "SIGNOS": ["Miercoles", "pasado", "yo", "viajar", "con", "mi", "perro", "parque", "en la mañana"]
     },
     {
-      "KEY": "Hoy es lunes",
-      "SIGNOS": ["Hoy", "lunes"]
+      "KEY": "Hoy es lunes y mañana es martes, el fin de semana descanso",
+      "SIGNOS": ["Hoy", "lunes", "mañana", "martes", "fin de semana", "yo", "descansar"]
     },
     {
-      "KEY": "Mañana voy a trabajar",
-      "SIGNOS": ["Mañana", "yo", "trabajar"]
+      "KEY": "Mañana voy a trabajar y en la tarde voy a estudiar",
+      "SIGNOS": ["Mañana", "yo", "trabajar", "en la tarde", "yo", "estudiar"]
     },
     {
-      "KEY": "Mi cumpleaños es en marzo",
-      "SIGNOS": ["Mi", "cumpleaños", "marzo"]
+      "KEY": "Mi cumpleaños es en marzo y el de mi hermana es en agosto",
+      "SIGNOS": ["Mi", "cumpleaños", "marzo", "mi", "hermana", "agosto"]
     },
     {
-      "KEY": "El fin de semana descanso",
-      "SIGNOS": ["Fin de semana", "yo", "descansar"]
+      "KEY": "El fin de semana descanso con mi familia y mis amigos",
+      "SIGNOS": ["Fin de semana", "yo", "descansar", "mi", "familia", "mi", "amigo"]
     },
     {
-      "KEY": "Ayer fui al médico",
-      "SIGNOS": ["Ayer", "yo", "médico"]
+      "KEY": "Ayer fui al médico y anteayer fui al trabajo",
+      "SIGNOS": ["Ayer", "yo", "médico", "anteayer", "trabajar"]
     },
     {
-      "KEY": "En la tarde estudiamos",
-      "SIGNOS": ["En la tarde", "nosotros", "estudiar"]
+      "KEY": "En la mañana estudio, en la tarde trabajo y en la noche descanso",
+      "SIGNOS": ["En la mañana", "estudiar", "en la tarde", "trabajar", "en la noche", "descansar"]
     },
     {
-      "KEY": "El sábado hay una fiesta",
-      "SIGNOS": ["Sábado", "fiesta"]
+      "KEY": "El sábado hay una fiesta y el domingo visito a mi abuela",
+      "SIGNOS": ["Sábado", "fiesta", "domingo", "visitar", "mi", "abuela"]
     },
     {
-      "KEY": "En diciembre son las vacaciones",
-      "SIGNOS": ["Diciembre", "vacaciones"]
+      "KEY": "En diciembre son las vacaciones y en enero empiezo a estudiar",
+      "SIGNOS": ["Diciembre", "vacaciones", "enero", "yo", "empezar", "estudiar"]
     },
     {
-      "KEY": "El año pasado viajé a Colombia",
-      "SIGNOS": ["Año pasado", "yo", "viajar", "@Colombia"]
+      "KEY": "El año pasado viajé a Colombia y el año presente viajo a Bogotá",
+      "SIGNOS": ["Año pasado", "yo", "viajar", "@Colombia", "año presente", "yo", "viajar", "@Bogotá"]
     }
   ]
 }
