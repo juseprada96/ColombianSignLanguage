@@ -87,7 +87,7 @@ function observeLazyImages() {
     { rootMargin: ROOT_MARGIN }
   );
 
-  state.entries.forEach((e) => observer.observe(e.card));
+  state.entries.forEach((e) => observer.observe(e.img));
 }
 
 /* ---------- search ---------- */
