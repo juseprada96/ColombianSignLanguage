@@ -190,6 +190,23 @@ function buildSpelling(text) {
   output.append(fragment);
 }
 
+/* ---------- views (tabs) ---------- */
+const VIEWS = ["dictionary", "spell"];
+
+function showView(name, updateHash = true) {
+  if (!VIEWS.includes(name)) name = "dictionary";
+  for (const view of VIEWS) {
+    const node = document.getElementById(`view-${view}`);
+    if (node) node.hidden = view !== name;
+  }
+  document.querySelectorAll(".side-nav button[data-view]").forEach((btn) => {
+    btn.classList.toggle("active", btn.dataset.view === name);
+  });
+  if (updateHash && location.hash !== `#${name}`) {
+    history.replaceState(null, "", `#${name}`);
+  }
+}
+
 /* ---------- render ---------- */
 function render(vocabulary) {
   const content = document.getElementById("content");
@@ -225,6 +242,12 @@ async function init() {
 
   search.addEventListener("input", applyFilter);
   spellInput.addEventListener("input", () => buildSpelling(spellInput.value));
+
+  document.querySelectorAll(".side-nav button[data-view]").forEach((btn) => {
+    btn.addEventListener("click", () => showView(btn.dataset.view));
+  });
+  window.addEventListener("hashchange", () => showView(location.hash.slice(1), false));
+  showView(location.hash.slice(1) || "dictionary", false);
   clear.addEventListener("click", () => {
     search.value = "";
     search.focus();

@@ -5,6 +5,7 @@
   --muted: #6b7280;
   --border: #e3e6ea;
   --accent: #2563eb;
+  --accent-contrast: #ffffff;
   --header-bg: rgba(246, 247, 249, 0.9);
   --radius: 12px;
   --shadow: 0 1px 2px rgba(16, 24, 40, 0.06), 0 4px 12px rgba(16, 24, 40, 0.05);
@@ -18,6 +19,7 @@
     --muted: #9aa3b2;
     --border: #262c37;
     --accent: #6ea8fe;
+    --accent-contrast: #0b1220;
     --header-bg: rgba(15, 18, 24, 0.9);
     --shadow: 0 1px 2px rgba(0, 0, 0, 0.4), 0 4px 14px rgba(0, 0, 0, 0.35);
   }
@@ -48,13 +50,72 @@ body {
 .header-inner {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 14px 20px 10px;
+  padding: 12px 20px;
 }
 
 .site-header h1 {
-  margin: 0 0 10px;
-  font-size: 1.25rem;
+  margin: 0;
+  font-size: 1.2rem;
   letter-spacing: -0.01em;
+}
+
+.site-sub {
+  margin: 2px 0 0;
+  font-size: .82rem;
+  color: var(--muted);
+}
+
+/* ---------- layout ---------- */
+.layout {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 22px 20px 60px;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 210px;
+  gap: 26px;
+  align-items: start;
+}
+
+.views { min-width: 0; }
+.view[hidden] { display: none; }
+
+/* ---------- side navigation ---------- */
+.side-nav { position: sticky; top: 76px; }
+
+.side-nav nav {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.side-nav button {
+  text-align: left;
+  padding: 10px 14px;
+  font-size: .95rem;
+  font-weight: 600;
+  font-family: inherit;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  cursor: pointer;
+  transition: color .15s, border-color .15s, background .15s;
+}
+
+.side-nav button:hover { color: var(--text); border-color: var(--accent); }
+
+.side-nav button.active {
+  color: var(--accent-contrast);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ---------- dictionary toolbar ---------- */
+.toolbar {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
 }
 
 .search { position: relative; }
@@ -93,14 +154,6 @@ body {
 }
 .clear:hover { background: var(--border); color: var(--text); }
 
-.meta {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 8px 12px;
-  margin-top: 10px;
-}
-
 .nav { display: flex; flex-wrap: wrap; gap: 6px; }
 
 .nav a {
@@ -117,26 +170,19 @@ body {
 
 .count {
   margin: 0;
-  margin-left: auto;
   font-size: .82rem;
   color: var(--muted);
 }
 
-/* ---------- content ---------- */
-main {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 22px 20px 60px;
-}
-
+/* ---------- dictionary content ---------- */
 .status { color: var(--muted); }
 .status.error { color: #dc2626; }
 
-.section { margin-bottom: 34px; scroll-margin-top: 150px; }
+.section { margin-bottom: 34px; scroll-margin-top: 90px; }
 
 .section > h2 {
   position: sticky;
-  top: 108px;
+  top: 74px;
   z-index: 10;
   margin: 0 0 12px;
   padding: 8px 2px;
@@ -215,7 +261,12 @@ main {
 }
 
 /* ---------- spelling ---------- */
-.spell-section { scroll-margin-top: 150px; }
+#view-spell > h2 {
+  margin: 0 0 8px;
+  font-size: 1.05rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+}
 
 .spell-help {
   margin: 0 0 12px;
@@ -271,10 +322,6 @@ main {
   border-radius: 10px;
 }
 
-@media (max-width: 520px) {
-  .letter, .word-space { width: 68px; height: 84px; }
-}
-
 /* ---------- footer ---------- */
 .site-footer {
   max-width: 1200px;
@@ -285,7 +332,19 @@ main {
 }
 .site-footer code { font-size: .8rem; }
 
+/* ---------- responsive ---------- */
+@media (max-width: 760px) {
+  .layout { grid-template-columns: 1fr; gap: 16px; }
+  .side-nav { position: static; order: -1; }
+  .side-nav nav {
+    flex-direction: row;
+    overflow-x: auto;
+    padding-bottom: 2px;
+  }
+  .side-nav button { white-space: nowrap; }
+  .section > h2 { top: 68px; }
+}
+
 @media (max-width: 520px) {
-  .count { margin-left: 0; }
-  .section > h2 { top: 150px; }
+  .letter, .word-space { width: 68px; height: 84px; }
 }

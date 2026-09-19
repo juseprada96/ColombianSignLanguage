@@ -4,44 +4,56 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Lengua de Señas Colombiana · Vocabulario</title>
-  <meta name="description" content="Vocabulario ilustrado de Lengua de Señas Colombiana con búsqueda y GIFs.">
+  <meta name="description" content="Vocabulario ilustrado de Lengua de Señas Colombiana con búsqueda, deletreo y GIFs.">
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
       <h1>Lengua de Señas Colombiana</h1>
-      <div class="search">
-        <input id="search" type="search" placeholder="Buscar palabra o frase…"
-               autocomplete="off" autocapitalize="off" spellcheck="false"
-               aria-label="Buscar en el vocabulario">
-        <button id="clear" type="button" class="clear" hidden aria-label="Limpiar búsqueda">×</button>
-      </div>
-      <div class="meta">
-        <nav id="nav" class="nav" aria-label="Secciones">
-          <a href="#spell">Deletreo</a>
-        </nav>
-        <p id="count" class="count" aria-live="polite"></p>
-      </div>
+      <p class="site-sub">Diccionario y herramientas</p>
     </div>
   </header>
 
-  <main>
-    <section id="spell" class="section spell-section" aria-labelledby="spell-title">
-      <h2 id="spell-title">Deletreo</h2>
-      <p class="spell-help">Escribe una palabra o frase para verla con las señas estáticas del abecedario.</p>
-      <input id="spell-input" class="spell-input" type="text"
-             placeholder="Escribe tu nombre o palabra…" autocomplete="off"
-             autocapitalize="characters" spellcheck="false"
-             aria-label="Texto para deletrear">
-      <p id="spell-error" class="spell-error" role="alert" hidden></p>
-      <div id="spell-output" class="spell-output" aria-live="polite"></div>
-    </section>
+  <div class="layout">
+    <main class="views">
+      <!-- Dictionary view -->
+      <section id="view-dictionary" class="view" aria-label="Diccionario">
+        <div class="toolbar">
+          <div class="search">
+            <input id="search" type="search" placeholder="Buscar palabra o frase…"
+                   autocomplete="off" autocapitalize="off" spellcheck="false"
+                   aria-label="Buscar en el vocabulario">
+            <button id="clear" type="button" class="clear" hidden aria-label="Limpiar búsqueda">×</button>
+          </div>
+          <nav id="nav" class="nav" aria-label="Secciones del diccionario"></nav>
+          <p id="count" class="count" aria-live="polite"></p>
+        </div>
+        <div id="content">
+          <p id="status" class="status">Cargando vocabulario…</p>
+        </div>
+      </section>
 
-    <div id="content">
-      <p id="status" class="status">Cargando vocabulario…</p>
-    </div>
-  </main>
+      <!-- Spelling view -->
+      <section id="view-spell" class="view" aria-labelledby="spell-title" hidden>
+        <h2 id="spell-title">Deletreo</h2>
+        <p class="spell-help">Escribe una palabra o frase para verla con las señas estáticas del abecedario.</p>
+        <input id="spell-input" class="spell-input" type="text"
+               placeholder="Escribe tu nombre o palabra…" autocomplete="off"
+               autocapitalize="characters" spellcheck="false"
+               aria-label="Texto para deletrear">
+        <p id="spell-error" class="spell-error" role="alert" hidden></p>
+        <div id="spell-output" class="spell-output" aria-live="polite"></div>
+      </section>
+    </main>
+
+    <aside class="side-nav">
+      <nav aria-label="Vistas">
+        <button type="button" data-view="dictionary" class="active">Diccionario</button>
+        <button type="button" data-view="spell">Deletreo</button>
+      </nav>
+    </aside>
+  </div>
 
   <footer class="site-footer">
     <p>ColombianSignLanguage · datos en <code>vocabulary.json</code></p>
