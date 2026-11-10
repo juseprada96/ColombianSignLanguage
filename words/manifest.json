@@ -2734,5 +2734,401 @@
     "start": 259.35,
     "end": 263.8,
     "label": null
+  },
+  {
+    "key": "ALIMENTOS",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/ALIMENTOS.gif",
+    "video": "alimentos1.mp4",
+    "start": 3.634,
+    "end": 7.483,
+    "label": null
+  },
+  {
+    "key": "FRUTAS",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/FRUTAS.gif",
+    "video": "alimentos1.mp4",
+    "start": 7.483,
+    "end": 10.116,
+    "label": null
+  },
+  {
+    "key": "JUGO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/JUGO.gif",
+    "video": "alimentos1.mp4",
+    "start": 10.116,
+    "end": 11.983,
+    "label": null
+  },
+  {
+    "key": "MANZANA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/MANZANA.gif",
+    "video": "alimentos1.mp4",
+    "start": 11.983,
+    "end": 14.916,
+    "label": null
+  },
+  {
+    "key": "FRESA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/FRESA.gif",
+    "video": "alimentos1.mp4",
+    "start": 14.916,
+    "end": 17.784,
+    "label": null
+  },
+  {
+    "key": "NARANJA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/NARANJA.gif",
+    "video": "alimentos1.mp4",
+    "start": 17.784,
+    "end": 20.55,
+    "label": null
+  },
+  {
+    "key": "PAPAYA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PAPAYA.gif",
+    "video": "alimentos1.mp4",
+    "start": 20.55,
+    "end": 24.55,
+    "label": null
+  },
+  {
+    "key": "LIMÓN",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/LIMON.gif",
+    "video": "alimentos1.mp4",
+    "start": 24.55,
+    "end": 27.117,
+    "label": null
+  },
+  {
+    "key": "SANDÍA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SANDIA.gif",
+    "video": "alimentos1.mp4",
+    "start": 27.117,
+    "end": 30.284,
+    "label": null
+  },
+  {
+    "key": "MANDARINA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/MANDARINA.gif",
+    "video": "alimentos1.mp4",
+    "start": 30.284,
+    "end": 32.416,
+    "label": null
+  },
+  {
+    "key": "GUANÁBANA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/GUANABANA.gif",
+    "video": "alimentos1.mp4",
+    "start": 32.416,
+    "end": 35.767,
+    "label": null
+  },
+  {
+    "key": "UVA VERDE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/UVA_VERDE.gif",
+    "video": "alimentos1.mp4",
+    "start": 35.767,
+    "end": 38.834,
+    "label": null
+  },
+  {
+    "key": "UVA MORADA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/UVA_MORADA.gif",
+    "video": "alimentos1.mp4",
+    "start": 38.834,
+    "end": 41.433,
+    "label": null
+  },
+  {
+    "key": "MARACUYÁ",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/MARACUYA.gif",
+    "video": "alimentos1.mp4",
+    "start": 41.433,
+    "end": 43.6,
+    "label": null
+  },
+  {
+    "key": "AGUACATE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/AGUACATE.gif",
+    "video": "alimentos1.mp4",
+    "start": 43.6,
+    "end": 46.95,
+    "label": null
+  },
+  {
+    "key": "COCO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/COCO.gif",
+    "video": "alimentos1.mp4",
+    "start": 46.95,
+    "end": 49.85,
+    "label": null
+  },
+  {
+    "key": "BANANO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/BANANO.gif",
+    "video": "alimentos1.mp4",
+    "start": 49.85,
+    "end": 52.4,
+    "label": null
+  },
+  {
+    "key": "MANGO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/MANGO.gif",
+    "video": "alimentos1.mp4",
+    "start": 52.4,
+    "end": 55.25,
+    "label": null
+  },
+  {
+    "key": "MORA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/MORA.gif",
+    "video": "alimentos1.mp4",
+    "start": 55.25,
+    "end": 58.584,
+    "label": null
+  },
+  {
+    "key": "PIÑA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PINA.gif",
+    "video": "alimentos1.mp4",
+    "start": 58.584,
+    "end": 63.55,
+    "label": null
+  },
+  {
+    "key": "GUAYABA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/GUAYABA.gif",
+    "video": "alimentos1.mp4",
+    "start": 63.55,
+    "end": 65.75,
+    "label": null
+  },
+  {
+    "key": "LULO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/LULO.gif",
+    "video": "alimentos1.mp4",
+    "start": 65.75,
+    "end": 69.117,
+    "label": null
+  },
+  {
+    "key": "GRANADILLA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/GRANADILLA.gif",
+    "video": "alimentos1.mp4",
+    "start": 69.117,
+    "end": 72.4,
+    "label": null
+  },
+  {
+    "key": "ENSALADA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/ENSALADA.gif",
+    "video": "alimentos1.mp4",
+    "start": 72.4,
+    "end": 75.216,
+    "label": null
+  },
+  {
+    "key": "VERDURAS",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/VERDURAS.gif",
+    "video": "alimentos1.mp4",
+    "start": 75.216,
+    "end": 78.3,
+    "label": null
+  },
+  {
+    "key": "FRIJOL ROJO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/FRIJOL_ROJO.gif",
+    "video": "alimentos1.mp4",
+    "start": 78.3,
+    "end": 81.666,
+    "label": null
+  },
+  {
+    "key": "LENTEJAS",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/LENTEJAS.gif",
+    "video": "alimentos1.mp4",
+    "start": 81.666,
+    "end": 84.35,
+    "label": null
+  },
+  {
+    "key": "ARVEJA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/ARVEJA.gif",
+    "video": "alimentos1.mp4",
+    "start": 84.35,
+    "end": 86.983,
+    "label": null
+  },
+  {
+    "key": "PLÁTANO VERDE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PLATANO_VERDE.gif",
+    "video": "alimentos1.mp4",
+    "start": 86.983,
+    "end": 89.7,
+    "label": null
+  },
+  {
+    "key": "PLÁTANO AMARILLO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PLATANO_AMARILLO.gif",
+    "video": "alimentos1.mp4",
+    "start": 89.7,
+    "end": 92.434,
+    "label": null
+  },
+  {
+    "key": "TOMATE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/TOMATE.gif",
+    "video": "alimentos1.mp4",
+    "start": 96.083,
+    "end": 101.067,
+    "label": null
+  },
+  {
+    "key": "CEBOLLA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/CEBOLLA.gif",
+    "video": "alimentos1.mp4",
+    "start": 101.067,
+    "end": 105.15,
+    "label": null
+  },
+  {
+    "key": "CEBOLLA LARGA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/CEBOLLA_LARGA.gif",
+    "video": "alimentos1.mp4",
+    "start": 105.15,
+    "end": 108.117,
+    "label": null
+  },
+  {
+    "key": "AJO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/AJO.gif",
+    "video": "alimentos1.mp4",
+    "start": 108.117,
+    "end": 111.117,
+    "label": null
+  },
+  {
+    "key": "LECHUGA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/LECHUGA.gif",
+    "video": "alimentos1.mp4",
+    "start": 111.117,
+    "end": 114.25,
+    "label": null
+  },
+  {
+    "key": "YUCA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/YUCA.gif",
+    "video": "alimentos1.mp4",
+    "start": 114.25,
+    "end": 116.716,
+    "label": null
+  },
+  {
+    "key": "PAPA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PAPA.gif",
+    "video": "alimentos1.mp4",
+    "start": 116.716,
+    "end": 119.284,
+    "label": null
+  },
+  {
+    "key": "PAPA AMARILLA",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/PAPA_AMARILLA.gif",
+    "video": "alimentos1.mp4",
+    "start": 119.284,
+    "end": 121.534,
+    "label": null
+  },
+  {
+    "key": "ALIMENTO DAÑADO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/ALIMENTO_DANADO.gif",
+    "video": "alimentos1.mp4",
+    "start": 121.534,
+    "end": 126.334,
+    "label": null
+  },
+  {
+    "key": "SABOR DULCE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SABOR_DULCE.gif",
+    "video": "alimentos1.mp4",
+    "start": 126.334,
+    "end": 129.233,
+    "label": null
+  },
+  {
+    "key": "SABOR AMARGO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SABOR_AMARGO.gif",
+    "video": "alimentos1.mp4",
+    "start": 129.233,
+    "end": 132.2,
+    "label": null
+  },
+  {
+    "key": "SABOR ÁCIDO",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SABOR_ACIDO.gif",
+    "video": "alimentos1.mp4",
+    "start": 132.2,
+    "end": 135.966,
+    "label": null
+  },
+  {
+    "key": "SABOR DESAL",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SABOR_DESAL.gif",
+    "video": "alimentos1.mp4",
+    "start": 135.966,
+    "end": 139.2,
+    "label": null
+  },
+  {
+    "key": "SABOR PICANTE",
+    "section": "ALIMENTOS 1",
+    "gif": "words/ALIMENTOS_1/SABOR_PICANTE.gif",
+    "video": "alimentos1.mp4",
+    "start": 139.2,
+    "end": 141.467,
+    "label": null
   }
 ]
