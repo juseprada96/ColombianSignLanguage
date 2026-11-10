@@ -3130,5 +3130,419 @@
     "start": 139.2,
     "end": 141.467,
     "label": null
+  },
+  {
+    "key": "ALIMENTOS",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/ALIMENTOS.gif",
+    "video": "alimentos2.mp4",
+    "start": 3.65,
+    "end": 7.016,
+    "label": null
+  },
+  {
+    "key": "AGUA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/AGUA.gif",
+    "video": "alimentos2.mp4",
+    "start": 7.016,
+    "end": 10.183,
+    "label": null
+  },
+  {
+    "key": "ARROZ",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/ARROZ.gif",
+    "video": "alimentos2.mp4",
+    "start": 10.183,
+    "end": 15.084,
+    "label": null
+  },
+  {
+    "key": "CARNE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/CARNE.gif",
+    "video": "alimentos2.mp4",
+    "start": 15.084,
+    "end": 19.05,
+    "label": null
+  },
+  {
+    "key": "POLLO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/POLLO.gif",
+    "video": "alimentos2.mp4",
+    "start": 19.05,
+    "end": 23.184,
+    "label": null
+  },
+  {
+    "key": "PESCADO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/PESCADO.gif",
+    "video": "alimentos2.mp4",
+    "start": 23.184,
+    "end": 28.017,
+    "label": null
+  },
+  {
+    "key": "SOPA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SOPA.gif",
+    "video": "alimentos2.mp4",
+    "start": 28.017,
+    "end": 32.117,
+    "label": null
+  },
+  {
+    "key": "DESAYUNO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/DESAYUNO.gif",
+    "video": "alimentos2.mp4",
+    "start": 32.117,
+    "end": 39.034,
+    "label": null
+  },
+  {
+    "key": "ALMUERZO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/ALMUERZO.gif",
+    "video": "alimentos2.mp4",
+    "start": 39.034,
+    "end": 44.466,
+    "label": null
+  },
+  {
+    "key": "CENA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/CENA.gif",
+    "video": "alimentos2.mp4",
+    "start": 44.466,
+    "end": 51.816,
+    "label": null
+  },
+  {
+    "key": "AZÚCAR",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/AZUCAR.gif",
+    "video": "alimentos2.mp4",
+    "start": 51.816,
+    "end": 55.633,
+    "label": null
+  },
+  {
+    "key": "SAL",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SAL.gif",
+    "video": "alimentos2.mp4",
+    "start": 55.633,
+    "end": 59.6,
+    "label": null
+  },
+  {
+    "key": "SALCHICHA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SALCHICHA.gif",
+    "video": "alimentos2.mp4",
+    "start": 59.6,
+    "end": 64.584,
+    "label": null
+  },
+  {
+    "key": "JAMÓN",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/JAMON.gif",
+    "video": "alimentos2.mp4",
+    "start": 64.584,
+    "end": 68.733,
+    "label": null
+  },
+  {
+    "key": "QUESO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/QUESO.gif",
+    "video": "alimentos2.mp4",
+    "start": 68.733,
+    "end": 71.534,
+    "label": null
+  },
+  {
+    "key": "RALLADO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/RALLADO.gif",
+    "video": "alimentos2.mp4",
+    "start": 71.534,
+    "end": 73.267,
+    "label": null
+  },
+  {
+    "key": "QUESO CREMA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/QUESO_CREMA.gif",
+    "video": "alimentos2.mp4",
+    "start": 73.267,
+    "end": 75.6,
+    "label": null
+  },
+  {
+    "key": "QUESO TAJADO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/QUESO_TAJADO.gif",
+    "video": "alimentos2.mp4",
+    "start": 75.6,
+    "end": 78.034,
+    "label": null
+  },
+  {
+    "key": "LECHE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/LECHE.gif",
+    "video": "alimentos2.mp4",
+    "start": 78.034,
+    "end": 81.55,
+    "label": null
+  },
+  {
+    "key": "CHOCOLATE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/CHOCOLATE.gif",
+    "video": "alimentos2.mp4",
+    "start": 81.55,
+    "end": 85.534,
+    "label": null
+  },
+  {
+    "key": "CAFÉ",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/CAFE.gif",
+    "video": "alimentos2.mp4",
+    "start": 85.534,
+    "end": 88.383,
+    "label": null
+  },
+  {
+    "key": "TÉ",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/TE.gif",
+    "video": "alimentos2.mp4",
+    "start": 88.383,
+    "end": 92.784,
+    "label": null
+  },
+  {
+    "key": "PAN",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/PAN.gif",
+    "video": "alimentos2.mp4",
+    "start": 92.784,
+    "end": 95.75,
+    "label": null
+  },
+  {
+    "key": "HUEVO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/HUEVO.gif",
+    "video": "alimentos2.mp4",
+    "start": 95.75,
+    "end": 99.45,
+    "label": null
+  },
+  {
+    "key": "BUÑUELO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/BUNUELO.gif",
+    "video": "alimentos2.mp4",
+    "start": 99.45,
+    "end": 102.784,
+    "label": null
+  },
+  {
+    "key": "AREPA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/AREPA.gif",
+    "video": "alimentos2.mp4",
+    "start": 102.784,
+    "end": 106.584,
+    "label": null
+  },
+  {
+    "key": "EMPANADA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/EMPANADA.gif",
+    "video": "alimentos2.mp4",
+    "start": 106.584,
+    "end": 109.4,
+    "label": null
+  },
+  {
+    "key": "TAMAL",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/TAMAL.gif",
+    "video": "alimentos2.mp4",
+    "start": 109.4,
+    "end": 112.767,
+    "label": null
+  },
+  {
+    "key": "SANDWICH",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SANDWICH.gif",
+    "video": "alimentos2.mp4",
+    "start": 112.767,
+    "end": 117.25,
+    "label": null
+  },
+  {
+    "key": "LASAÑA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/LASANA.gif",
+    "video": "alimentos2.mp4",
+    "start": 117.25,
+    "end": 120.0,
+    "label": null
+  },
+  {
+    "key": "HAMBURGUESA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/HAMBURGUESA.gif",
+    "video": "alimentos2.mp4",
+    "start": 120.0,
+    "end": 122.934,
+    "label": null
+  },
+  {
+    "key": "PIZZA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/PIZZA.gif",
+    "video": "alimentos2.mp4",
+    "start": 122.934,
+    "end": 127.983,
+    "label": null
+  },
+  {
+    "key": "PERRO CALIENTE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/PERRO_CALIENTE.gif",
+    "video": "alimentos2.mp4",
+    "start": 127.983,
+    "end": 132.966,
+    "label": null
+  },
+  {
+    "key": "SALSA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SALSA.gif",
+    "video": "alimentos2.mp4",
+    "start": 132.966,
+    "end": 136.9,
+    "label": null
+  },
+  {
+    "key": "GALLETA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/GALLETA.gif",
+    "video": "alimentos2.mp4",
+    "start": 136.9,
+    "end": 140.65,
+    "label": null
+  },
+  {
+    "key": "HELADO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/HELADO.gif",
+    "video": "alimentos2.mp4",
+    "start": 140.65,
+    "end": 144.183,
+    "label": null
+  },
+  {
+    "key": "TORTA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/TORTA.gif",
+    "video": "alimentos2.mp4",
+    "start": 144.183,
+    "end": 147.35,
+    "label": null
+  },
+  {
+    "key": "GASEOSA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/GASEOSA.gif",
+    "video": "alimentos2.mp4",
+    "start": 147.35,
+    "end": 150.8,
+    "label": null
+  },
+  {
+    "key": "CERVEZA",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/CERVEZA.gif",
+    "video": "alimentos2.mp4",
+    "start": 150.8,
+    "end": 154.15,
+    "label": null
+  },
+  {
+    "key": "ACEITE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/ACEITE.gif",
+    "video": "alimentos2.mp4",
+    "start": 154.15,
+    "end": 158.416,
+    "label": null
+  },
+  {
+    "key": "RICO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/RICO.gif",
+    "video": "alimentos2.mp4",
+    "start": 158.416,
+    "end": 161.95,
+    "label": null
+  },
+  {
+    "key": "HAMBRE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/HAMBRE.gif",
+    "video": "alimentos2.mp4",
+    "start": 161.95,
+    "end": 165.433,
+    "label": null
+  },
+  {
+    "key": "LLENO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/LLENO.gif",
+    "video": "alimentos2.mp4",
+    "start": 165.433,
+    "end": 169.784,
+    "label": null
+  },
+  {
+    "key": "SUAVE",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/SUAVE.gif",
+    "video": "alimentos2.mp4",
+    "start": 169.784,
+    "end": 173.15,
+    "label": null
+  },
+  {
+    "key": "DURO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/DURO.gif",
+    "video": "alimentos2.mp4",
+    "start": 173.15,
+    "end": 176.584,
+    "label": null
+  },
+  {
+    "key": "BLANDO",
+    "section": "ALIMENTOS 2",
+    "gif": "words/ALIMENTOS_2/BLANDO.gif",
+    "video": "alimentos2.mp4",
+    "start": 176.584,
+    "end": 178.567,
+    "label": null
   }
 ]
