@@ -3544,5 +3544,635 @@
     "start": 176.584,
     "end": 178.567,
     "label": null
+  },
+  {
+    "key": "TIEMPOS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TIEMPOS.gif",
+    "video": "tiempos2.mp4",
+    "start": 3.517,
+    "end": 5.5,
+    "label": null
+  },
+  {
+    "key": "DÍA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/DIA.gif",
+    "video": "tiempos2.mp4",
+    "start": 6.333,
+    "end": 8.15,
+    "label": null
+  },
+  {
+    "key": "TODOS LOS DÍAS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TODOS_LOS_DIAS.gif",
+    "video": "tiempos2.mp4",
+    "start": 8.15,
+    "end": 11.4,
+    "label": null
+  },
+  {
+    "key": "TODO EL DÍA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TODO_EL_DIA.gif",
+    "video": "tiempos2.mp4",
+    "start": 11.4,
+    "end": 14.434,
+    "label": null
+  },
+  {
+    "key": "FUTURO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/FUTURO.gif",
+    "video": "tiempos2.mp4",
+    "start": 14.434,
+    "end": 18.017,
+    "label": null
+  },
+  {
+    "key": "HORA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/HORA.gif",
+    "video": "tiempos2.mp4",
+    "start": 18.017,
+    "end": 20.983,
+    "label": null
+  },
+  {
+    "key": "MINUTOS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/MINUTOS.gif",
+    "video": "tiempos2.mp4",
+    "start": 20.983,
+    "end": 24.017,
+    "label": null
+  },
+  {
+    "key": "SEGUNDOS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/SEGUNDOS.gif",
+    "video": "tiempos2.mp4",
+    "start": 24.017,
+    "end": 27.334,
+    "label": null
+  },
+  {
+    "key": "AHORA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/AHORA.gif",
+    "video": "tiempos2.mp4",
+    "start": 27.334,
+    "end": 29.883,
+    "label": null
+  },
+  {
+    "key": "MADRUGADA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/MADRUGADA.gif",
+    "video": "tiempos2.mp4",
+    "start": 29.883,
+    "end": 33.567,
+    "label": null
+  },
+  {
+    "key": "AMANECER",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/AMANECER.gif",
+    "video": "tiempos2.mp4",
+    "start": 33.567,
+    "end": 36.65,
+    "label": null
+  },
+  {
+    "key": "TARDE (TIEMPO)",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TARDE_TIEMPO.gif",
+    "video": "tiempos2.mp4",
+    "start": 36.65,
+    "end": 39.466,
+    "label": null
+  },
+  {
+    "key": "TEMPRANO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TEMPRANO.gif",
+    "video": "tiempos2.mp4",
+    "start": 39.466,
+    "end": 42.4,
+    "label": null
+  },
+  {
+    "key": "ANTES",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/ANTES.gif",
+    "video": "tiempos2.mp4",
+    "start": 42.4,
+    "end": 45.084,
+    "label": null
+  },
+  {
+    "key": "DESPUÉS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/DESPUES.gif",
+    "video": "tiempos2.mp4",
+    "start": 45.084,
+    "end": 48.05,
+    "label": null
+  },
+  {
+    "key": "MUCHO DESPUÉS",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/MUCHO_DESPUES.gif",
+    "video": "tiempos2.mp4",
+    "start": 48.05,
+    "end": 51.466,
+    "label": null
+  },
+  {
+    "key": "PRÓXIMO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/PROXIMO.gif",
+    "video": "tiempos2.mp4",
+    "start": 51.466,
+    "end": 54.483,
+    "label": null
+  },
+  {
+    "key": "CLIMA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/CLIMA.gif",
+    "video": "tiempos2.mp4",
+    "start": 54.483,
+    "end": 57.35,
+    "label": null
+  },
+  {
+    "key": "VERANO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/VERANO.gif",
+    "video": "tiempos2.mp4",
+    "start": 57.35,
+    "end": 61.716,
+    "label": null
+  },
+  {
+    "key": "OTOÑO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/OTONO.gif",
+    "video": "tiempos2.mp4",
+    "start": 61.716,
+    "end": 65.55,
+    "label": null
+  },
+  {
+    "key": "PRIMAVERA",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/PRIMAVERA.gif",
+    "video": "tiempos2.mp4",
+    "start": 65.55,
+    "end": 69.216,
+    "label": null
+  },
+  {
+    "key": "INVIERNO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/INVIERNO.gif",
+    "video": "tiempos2.mp4",
+    "start": 69.216,
+    "end": 73.784,
+    "label": null
+  },
+  {
+    "key": "TRUENO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TRUENO.gif",
+    "video": "tiempos2.mp4",
+    "start": 73.784,
+    "end": 78.45,
+    "label": null
+  },
+  {
+    "key": "FRÍO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/FRIO.gif",
+    "video": "tiempos2.mp4",
+    "start": 78.45,
+    "end": 80.85,
+    "label": null
+  },
+  {
+    "key": "TEMBLOR",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TEMBLOR.gif",
+    "video": "tiempos2.mp4",
+    "start": 80.85,
+    "end": 83.85,
+    "label": null
+  },
+  {
+    "key": "TERREMOTO",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/TERREMOTO.gif",
+    "video": "tiempos2.mp4",
+    "start": 83.85,
+    "end": 87.334,
+    "label": null
+  },
+  {
+    "key": "VOLCÁN ERUPCIÓN",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/VOLCAN_ERUPCION.gif",
+    "video": "tiempos2.mp4",
+    "start": 87.334,
+    "end": 91.1,
+    "label": null
+  },
+  {
+    "key": "HURACÁN",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/HURACAN.gif",
+    "video": "tiempos2.mp4",
+    "start": 91.1,
+    "end": 95.3,
+    "label": null
+  },
+  {
+    "key": "DERRUMBES",
+    "section": "TIEMPOS 2",
+    "gif": "words/TIEMPOS_2/DERRUMBES.gif",
+    "video": "tiempos2.mp4",
+    "start": 95.3,
+    "end": 101.0,
+    "label": null
+  },
+  {
+    "key": "VERBOS",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/VERBOS.gif",
+    "video": "verbos2.mp4",
+    "start": 3.634,
+    "end": 5.5,
+    "label": null
+  },
+  {
+    "key": "GANAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/GANAR.gif",
+    "video": "verbos2.mp4",
+    "start": 6.35,
+    "end": 10.317,
+    "label": null
+  },
+  {
+    "key": "ASISTIR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ASISTIR.gif",
+    "video": "verbos2.mp4",
+    "start": 10.317,
+    "end": 14.084,
+    "label": null
+  },
+  {
+    "key": "MOSTRAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/MOSTRAR.gif",
+    "video": "verbos2.mp4",
+    "start": 14.084,
+    "end": 16.233,
+    "label": null
+  },
+  {
+    "key": "BUSCAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/BUSCAR.gif",
+    "video": "verbos2.mp4",
+    "start": 17.85,
+    "end": 21.216,
+    "label": null
+  },
+  {
+    "key": "PREGUNTAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/PREGUNTAR.gif",
+    "video": "verbos2.mp4",
+    "start": 21.216,
+    "end": 26.483,
+    "label": null
+  },
+  {
+    "key": "ENTENDER",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ENTENDER.gif",
+    "video": "verbos2.mp4",
+    "start": 26.483,
+    "end": 31.684,
+    "label": null
+  },
+  {
+    "key": "ENCONTRAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ENCONTRAR.gif",
+    "video": "verbos2.mp4",
+    "start": 31.684,
+    "end": 37.25,
+    "label": null
+  },
+  {
+    "key": "QUERER",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/QUERER.gif",
+    "video": "verbos2.mp4",
+    "start": 37.25,
+    "end": 42.65,
+    "label": null
+  },
+  {
+    "key": "GUSTAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/GUSTAR.gif",
+    "video": "verbos2.mp4",
+    "start": 42.65,
+    "end": 48.716,
+    "label": null
+  },
+  {
+    "key": "FAVORITO",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/FAVORITO.gif",
+    "video": "verbos2.mp4",
+    "start": 48.716,
+    "end": 56.483,
+    "label": null
+  },
+  {
+    "key": "ARREGLAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ARREGLAR.gif",
+    "video": "verbos2.mp4",
+    "start": 56.483,
+    "end": 59.617,
+    "label": null
+  },
+  {
+    "key": "IMAGINAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/IMAGINAR.gif",
+    "video": "verbos2.mp4",
+    "start": 59.617,
+    "end": 63.117,
+    "label": null
+  },
+  {
+    "key": "INVESTIGAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/INVESTIGAR.gif",
+    "video": "verbos2.mp4",
+    "start": 64.383,
+    "end": 67.65,
+    "label": null
+  },
+  {
+    "key": "AYUDAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/AYUDAR.gif",
+    "video": "verbos2.mp4",
+    "start": 67.65,
+    "end": 73.1,
+    "label": null
+  },
+  {
+    "key": "TRAICIONAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/TRAICIONAR.gif",
+    "video": "verbos2.mp4",
+    "start": 73.1,
+    "end": 76.584,
+    "label": null
+  },
+  {
+    "key": "ENSEÑAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ENSENAR.gif",
+    "video": "verbos2.mp4",
+    "start": 76.584,
+    "end": 82.084,
+    "label": null
+  },
+  {
+    "key": "DESPERTAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/DESPERTAR.gif",
+    "video": "verbos2.mp4",
+    "start": 82.084,
+    "end": 84.017,
+    "label": null
+  },
+  {
+    "key": "ESCUCHAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ESCUCHAR.gif",
+    "video": "verbos2.mp4",
+    "start": 86.584,
+    "end": 92.817,
+    "label": null
+  },
+  {
+    "key": "IR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/IR.gif",
+    "video": "verbos2.mp4",
+    "start": 92.817,
+    "end": 95.133,
+    "label": null
+  },
+  {
+    "key": "VOY",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/VOY.gif",
+    "video": "verbos2.mp4",
+    "start": 98.6,
+    "end": 101.183,
+    "label": null
+  },
+  {
+    "key": "SENTIR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/SENTIR.gif",
+    "video": "verbos2.mp4",
+    "start": 101.183,
+    "end": 105.65,
+    "label": null
+  },
+  {
+    "key": "NECESITAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/NECESITAR.gif",
+    "video": "verbos2.mp4",
+    "start": 105.65,
+    "end": 110.25,
+    "label": null
+  },
+  {
+    "key": "RESPONDER",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/RESPONDER.gif",
+    "video": "verbos2.mp4",
+    "start": 110.25,
+    "end": 116.617,
+    "label": null
+  },
+  {
+    "key": "ORGANIZAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ORGANIZAR.gif",
+    "video": "verbos2.mp4",
+    "start": 116.617,
+    "end": 124.017,
+    "label": null
+  },
+  {
+    "key": "CAMBIAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/CAMBIAR.gif",
+    "video": "verbos2.mp4",
+    "start": 124.017,
+    "end": 131.483,
+    "label": null
+  },
+  {
+    "key": "DUDA",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/DUDA.gif",
+    "video": "verbos2.mp4",
+    "start": 131.483,
+    "end": 135.884,
+    "label": null
+  },
+  {
+    "key": "EXPLICAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/EXPLICAR.gif",
+    "video": "verbos2.mp4",
+    "start": 135.884,
+    "end": 141.584,
+    "label": null
+  },
+  {
+    "key": "CONOCER",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/CONOCER.gif",
+    "video": "verbos2.mp4",
+    "start": 141.584,
+    "end": 148.084,
+    "label": null
+  },
+  {
+    "key": "ACOMPAÑAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ACOMPANAR.gif",
+    "video": "verbos2.mp4",
+    "start": 148.084,
+    "end": 151.716,
+    "label": null
+  },
+  {
+    "key": "COMPARTIR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/COMPARTIR.gif",
+    "video": "verbos2.mp4",
+    "start": 151.716,
+    "end": 154.75,
+    "label": null
+  },
+  {
+    "key": "ROMPER",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/ROMPER.gif",
+    "video": "verbos2.mp4",
+    "start": 154.75,
+    "end": 160.45,
+    "label": null
+  },
+  {
+    "key": "PERDONAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/PERDONAR.gif",
+    "video": "verbos2.mp4",
+    "start": 160.45,
+    "end": 164.267,
+    "label": null
+  },
+  {
+    "key": "CONSTRUIR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/CONSTRUIR.gif",
+    "video": "verbos2.mp4",
+    "start": 164.267,
+    "end": 171.25,
+    "label": null
+  },
+  {
+    "key": "REPETIR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/REPETIR.gif",
+    "video": "verbos2.mp4",
+    "start": 171.25,
+    "end": 176.167,
+    "label": null
+  },
+  {
+    "key": "COMPARAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/COMPARAR.gif",
+    "video": "verbos2.mp4",
+    "start": 176.167,
+    "end": 180.084,
+    "label": null
+  },
+  {
+    "key": "DISCRIMINAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/DISCRIMINAR.gif",
+    "video": "verbos2.mp4",
+    "start": 180.084,
+    "end": 188.433,
+    "label": null
+  },
+  {
+    "key": "AFECTAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/AFECTAR.gif",
+    "video": "verbos2.mp4",
+    "start": 188.433,
+    "end": 194.25,
+    "label": null
+  },
+  {
+    "key": "IGNORAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/IGNORAR.gif",
+    "video": "verbos2.mp4",
+    "start": 194.25,
+    "end": 200.216,
+    "label": null
+  },
+  {
+    "key": "RECHAZAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/RECHAZAR.gif",
+    "video": "verbos2.mp4",
+    "start": 200.216,
+    "end": 206.8,
+    "label": null
+  },
+  {
+    "key": "SOÑAR",
+    "section": "VERBOS 2",
+    "gif": "words/VERBOS_2/SONAR.gif",
+    "video": "verbos2.mp4",
+    "start": 206.8,
+    "end": 209.633,
+    "label": null
   }
 ]
