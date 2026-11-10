@@ -3,6 +3,15 @@
 const DATA_URL = "vocabulary.json";
 const ROOT_MARGIN = "300px";
 
+// Public base URL for the GIF bucket (set in config.js). Empty = local words/.
+const ASSET_BASE_URL = String(window.CSL_ASSET_BASE_URL || "");
+
+function assetUrl(path) {
+  const value = String(path);
+  if (!ASSET_BASE_URL || /^[a-z][a-z0-9+.-]*:\/\//i.test(value)) return value;
+  return `${ASSET_BASE_URL.replace(/\/+$/, "")}/${value.replace(/^\/+/, "")}`;
+}
+
 const state = { entries: [], sections: [] };
 
 const el = (tag, props = {}, children = []) => {
@@ -29,18 +38,19 @@ function slugify(value) {
 }
 
 function buildCard(key, path) {
+  const src = assetUrl(path);
   const img = el("img", {
     alt: `Seña: ${key}`,
     loading: "lazy",
     decoding: "async",
   });
-  img.dataset.src = path;
+  img.dataset.src = src;
 
   const card = el("figure", { className: "card" }, [
     img,
     el("figcaption", { textContent: key }),
   ]);
-  img.addEventListener("click", () => openLightbox(key, path));
+  img.addEventListener("click", () => openLightbox(key, src));
   return { card, img };
 }
 
@@ -209,7 +219,7 @@ function buildVocabIndex(vocabulary) {
   const index = new Map();
   for (const words of Object.values(vocabulary)) {
     for (const [key, path] of Object.entries(words)) {
-      index.set(normalize(key), { key, path: String(path) });
+      index.set(normalize(key), { key, path: assetUrl(String(path)) });
     }
   }
   return index;

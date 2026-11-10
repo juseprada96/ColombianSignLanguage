@@ -27,6 +27,7 @@ it as one batch with `--words-file`; do not drip-feed entries.
 | ------------------ | -------------------------------------------------------------------- |
 | Videos             | Go in `videos/`, which is gitignored. Never commit them.             |
 | GIFs               | `words/<SECTION_FOLDER>/<WORD_SLUG>.gif`                             |
+| GIF storage        | Generated locally, then uploaded to Cloudflare R2; `words/**/*.gif` is not committed. |
 | Section folder     | Uppercase, accents removed, spaces → `_` (`VERBOS 1` → `VERBOS_1`)    |
 | Word slug          | Uppercase, accents removed, non-alphanumerics → `_` (`PAPÁ` → `PAPA`) |
 | GIF format         | 384 px wide, 10 fps, infinite loop (matches existing assets)         |
@@ -105,8 +106,19 @@ video for you:
    git diff --stat -- vocabulary.json words/manifest.json
    ```
 
-   Only GIFs and the two JSON files should change. `videos/` must not appear.
-   Confirm the section's word count matches the number of clips.
+   Only `vocabulary.json` and `words/manifest.json` should change. The new GIFs
+   are gitignored and live only until they are uploaded to R2. `videos/` must not
+   appear. Confirm the section's word count matches the number of clips.
+
+7. **Upload the GIFs to R2.** The site serves `words/` from a public Cloudflare
+   R2 bucket, so new GIFs are not committed to git:
+
+   ```powershell
+   python scripts/upload_gifs.py --skip-existing
+   ```
+
+   This needs the `R2_*` environment variables described in `README.md`. Only
+   `vocabulary.json` and `words/manifest.json` are committed after this step.
 
 ## Adding a few explicit words
 
@@ -123,14 +135,15 @@ python .opencode/skills/add-sign-video/scripts/add_signs.py `
 ```
 
 Re-running with the same word updates the existing entry instead of duplicating
-it. Use `--skip-download` when the video is already present.
+it. Use `--skip-download` when the video is already present. Upload the
+generated GIFs afterwards with `python scripts/upload_gifs.py --skip-existing`.
 
 ## Format notes
 
 The medium-quality download uses `yt-dlp -f "bv*+ba/b" -S "res:480"` so it never
-pulls 1080p/4K unnecessarily. GIFs are palette-optimized to keep them small
-enough for GitHub Pages. If a clip looks choppy, adjust `--fps`; if a page feels
-heavy, keep 10 fps and 384 px rather than increasing them.
+pulls 1080p/4K unnecessarily. GIFs are palette-optimized to stay small in the R2
+bucket. If a clip looks choppy, adjust `--fps`; if a page feels heavy, keep 10
+fps and 384 px rather than increasing them.
 
 ## Failure handling
 
@@ -144,3 +157,6 @@ heavy, keep 10 fps and 384 px rather than increasing them.
   `--min-peak` (raise it to ignore hand motion) or `--merge-gap` (raise it to
   join a slow fade). Use `--keep-ends` if the video starts or ends directly on a
   sign instead of an intro/outro card.
+- The R2 upload fails: check the `R2_*` variables and that the API token has
+  Object Read & Write access to the bucket. Run `scripts/upload_gifs.py
+  --dry-run` to confirm the file list.

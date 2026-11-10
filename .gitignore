@@ -1,2 +1,6 @@
 /videos
 .idea/
+.env
+/words/**/*.gif
+__pycache__/
+*.pyc

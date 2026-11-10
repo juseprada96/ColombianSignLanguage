@@ -264,6 +264,7 @@ def main() -> int:
         raise SystemExit(f"Section {args.section!r} ended up empty")
 
     print(f"\nOK: {len(created)} word(s) in section {args.section!r}; video: videos/{video_name}")
+    print("Next: python scripts/upload_gifs.py --skip-existing")
     return 0
 
 
