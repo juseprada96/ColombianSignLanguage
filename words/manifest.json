@@ -2032,5 +2032,707 @@
     "start": 89.5,
     "end": 92.0,
     "label": null
+  },
+  {
+    "key": "DINERO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DINERO.gif",
+    "video": "finanzas.mp4",
+    "start": 192.534,
+    "end": 195.084,
+    "label": null
+  },
+  {
+    "key": "MONEDAS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/MONEDAS.gif",
+    "video": "finanzas.mp4",
+    "start": 195.084,
+    "end": 198.733,
+    "label": null
+  },
+  {
+    "key": "COMPRAR",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/COMPRAR.gif",
+    "video": "finanzas.mp4",
+    "start": 241.3,
+    "end": 245.334,
+    "label": null
+  },
+  {
+    "key": "PAGAR",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/PAGAR.gif",
+    "video": "finanzas.mp4",
+    "start": 245.334,
+    "end": 249.483,
+    "label": null
+  },
+  {
+    "key": "FINANZAS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/FINANZAS.gif",
+    "video": "finanzas.mp4",
+    "start": 3.966,
+    "end": 7.85,
+    "label": null
+  },
+  {
+    "key": "NÚMEROS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/NUMEROS.gif",
+    "video": "finanzas.mp4",
+    "start": 7.85,
+    "end": 12.466,
+    "label": null
+  },
+  {
+    "key": "UNO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/UNO.gif",
+    "video": "finanzas.mp4",
+    "start": 12.466,
+    "end": 14.616,
+    "label": null
+  },
+  {
+    "key": "DOS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DOS.gif",
+    "video": "finanzas.mp4",
+    "start": 14.616,
+    "end": 16.716,
+    "label": null
+  },
+  {
+    "key": "TRES",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/TRES.gif",
+    "video": "finanzas.mp4",
+    "start": 16.716,
+    "end": 18.517,
+    "label": null
+  },
+  {
+    "key": "CUATRO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CUATRO.gif",
+    "video": "finanzas.mp4",
+    "start": 18.517,
+    "end": 20.184,
+    "label": null
+  },
+  {
+    "key": "CINCO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CINCO.gif",
+    "video": "finanzas.mp4",
+    "start": 20.184,
+    "end": 23.034,
+    "label": null
+  },
+  {
+    "key": "SEIS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/SEIS.gif",
+    "video": "finanzas.mp4",
+    "start": 23.034,
+    "end": 25.684,
+    "label": null
+  },
+  {
+    "key": "SIETE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/SIETE.gif",
+    "video": "finanzas.mp4",
+    "start": 25.684,
+    "end": 27.584,
+    "label": null
+  },
+  {
+    "key": "OCHO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/OCHO.gif",
+    "video": "finanzas.mp4",
+    "start": 27.584,
+    "end": 29.684,
+    "label": null
+  },
+  {
+    "key": "NUEVE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/NUEVE.gif",
+    "video": "finanzas.mp4",
+    "start": 29.684,
+    "end": 31.883,
+    "label": null
+  },
+  {
+    "key": "DIEZ",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DIEZ.gif",
+    "video": "finanzas.mp4",
+    "start": 31.883,
+    "end": 34.816,
+    "label": null
+  },
+  {
+    "key": "ONCE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/ONCE.gif",
+    "video": "finanzas.mp4",
+    "start": 34.816,
+    "end": 36.883,
+    "label": null
+  },
+  {
+    "key": "DOCE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DOCE.gif",
+    "video": "finanzas.mp4",
+    "start": 36.883,
+    "end": 39.25,
+    "label": null
+  },
+  {
+    "key": "TRECE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/TRECE.gif",
+    "video": "finanzas.mp4",
+    "start": 39.25,
+    "end": 41.017,
+    "label": null
+  },
+  {
+    "key": "CATORCE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CATORCE.gif",
+    "video": "finanzas.mp4",
+    "start": 41.017,
+    "end": 42.983,
+    "label": null
+  },
+  {
+    "key": "QUINCE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/QUINCE.gif",
+    "video": "finanzas.mp4",
+    "start": 42.983,
+    "end": 46.95,
+    "label": null
+  },
+  {
+    "key": "DIECISÉIS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DIECISEIS.gif",
+    "video": "finanzas.mp4",
+    "start": 46.95,
+    "end": 50.133,
+    "label": null
+  },
+  {
+    "key": "DIECISIETE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DIECISIETE.gif",
+    "video": "finanzas.mp4",
+    "start": 50.133,
+    "end": 53.166,
+    "label": null
+  },
+  {
+    "key": "DIECIOCHO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DIECIOCHO.gif",
+    "video": "finanzas.mp4",
+    "start": 53.166,
+    "end": 55.666,
+    "label": null
+  },
+  {
+    "key": "DIECINUEVE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DIECINUEVE.gif",
+    "video": "finanzas.mp4",
+    "start": 55.666,
+    "end": 59.184,
+    "label": null
+  },
+  {
+    "key": "20",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/20.gif",
+    "video": "finanzas.mp4",
+    "start": 59.184,
+    "end": 62.25,
+    "label": null
+  },
+  {
+    "key": "21",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/21.gif",
+    "video": "finanzas.mp4",
+    "start": 62.25,
+    "end": 65.284,
+    "label": null
+  },
+  {
+    "key": "22",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/22.gif",
+    "video": "finanzas.mp4",
+    "start": 65.284,
+    "end": 67.3,
+    "label": null
+  },
+  {
+    "key": "23",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/23.gif",
+    "video": "finanzas.mp4",
+    "start": 67.3,
+    "end": 69.817,
+    "label": null
+  },
+  {
+    "key": "24",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/24.gif",
+    "video": "finanzas.mp4",
+    "start": 69.817,
+    "end": 72.183,
+    "label": null
+  },
+  {
+    "key": "25",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/25.gif",
+    "video": "finanzas.mp4",
+    "start": 72.183,
+    "end": 74.566,
+    "label": null
+  },
+  {
+    "key": "26",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/26.gif",
+    "video": "finanzas.mp4",
+    "start": 74.566,
+    "end": 78.45,
+    "label": null
+  },
+  {
+    "key": "27",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/27.gif",
+    "video": "finanzas.mp4",
+    "start": 78.45,
+    "end": 81.317,
+    "label": null
+  },
+  {
+    "key": "28",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/28.gif",
+    "video": "finanzas.mp4",
+    "start": 81.317,
+    "end": 83.517,
+    "label": null
+  },
+  {
+    "key": "29",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/29.gif",
+    "video": "finanzas.mp4",
+    "start": 83.517,
+    "end": 86.45,
+    "label": null
+  },
+  {
+    "key": "30",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/30.gif",
+    "video": "finanzas.mp4",
+    "start": 86.45,
+    "end": 88.883,
+    "label": null
+  },
+  {
+    "key": "40",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/40.gif",
+    "video": "finanzas.mp4",
+    "start": 88.883,
+    "end": 91.517,
+    "label": null
+  },
+  {
+    "key": "50",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/50.gif",
+    "video": "finanzas.mp4",
+    "start": 91.517,
+    "end": 94.05,
+    "label": null
+  },
+  {
+    "key": "60",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/60.gif",
+    "video": "finanzas.mp4",
+    "start": 94.05,
+    "end": 96.55,
+    "label": null
+  },
+  {
+    "key": "70",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/70.gif",
+    "video": "finanzas.mp4",
+    "start": 96.55,
+    "end": 98.983,
+    "label": null
+  },
+  {
+    "key": "80",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/80.gif",
+    "video": "finanzas.mp4",
+    "start": 98.983,
+    "end": 101.284,
+    "label": null
+  },
+  {
+    "key": "90",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/90.gif",
+    "video": "finanzas.mp4",
+    "start": 101.284,
+    "end": 103.883,
+    "label": null
+  },
+  {
+    "key": "100",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/100.gif",
+    "video": "finanzas.mp4",
+    "start": 103.883,
+    "end": 108.084,
+    "label": null
+  },
+  {
+    "key": "200",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/200.gif",
+    "video": "finanzas.mp4",
+    "start": 108.084,
+    "end": 110.517,
+    "label": null
+  },
+  {
+    "key": "300",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/300.gif",
+    "video": "finanzas.mp4",
+    "start": 110.517,
+    "end": 113.317,
+    "label": null
+  },
+  {
+    "key": "400",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/400.gif",
+    "video": "finanzas.mp4",
+    "start": 113.317,
+    "end": 115.983,
+    "label": null
+  },
+  {
+    "key": "500",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/500.gif",
+    "video": "finanzas.mp4",
+    "start": 115.983,
+    "end": 118.9,
+    "label": null
+  },
+  {
+    "key": "600",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/600.gif",
+    "video": "finanzas.mp4",
+    "start": 118.9,
+    "end": 121.35,
+    "label": null
+  },
+  {
+    "key": "700",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/700.gif",
+    "video": "finanzas.mp4",
+    "start": 121.35,
+    "end": 123.716,
+    "label": null
+  },
+  {
+    "key": "800",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/800.gif",
+    "video": "finanzas.mp4",
+    "start": 123.716,
+    "end": 125.966,
+    "label": null
+  },
+  {
+    "key": "900",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/900.gif",
+    "video": "finanzas.mp4",
+    "start": 125.966,
+    "end": 128.25,
+    "label": null
+  },
+  {
+    "key": "MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 128.25,
+    "end": 132.084,
+    "label": null
+  },
+  {
+    "key": "DOS MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DOS_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 132.084,
+    "end": 136.584,
+    "label": null
+  },
+  {
+    "key": "TRES MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/TRES_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 136.584,
+    "end": 140.084,
+    "label": null
+  },
+  {
+    "key": "CUATRO MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CUATRO_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 140.084,
+    "end": 144.683,
+    "label": null
+  },
+  {
+    "key": "CINCO MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CINCO_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 144.683,
+    "end": 149.3,
+    "label": null
+  },
+  {
+    "key": "SEIS MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/SEIS_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 149.3,
+    "end": 154.616,
+    "label": null
+  },
+  {
+    "key": "SIETE MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/SIETE_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 154.616,
+    "end": 158.716,
+    "label": null
+  },
+  {
+    "key": "OCHO MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/OCHO_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 158.716,
+    "end": 163.017,
+    "label": null
+  },
+  {
+    "key": "NUEVE MIL",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/NUEVE_MIL.gif",
+    "video": "finanzas.mp4",
+    "start": 163.017,
+    "end": 167.15,
+    "label": null
+  },
+  {
+    "key": "10.000",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/10_000.gif",
+    "video": "finanzas.mp4",
+    "start": 167.15,
+    "end": 171.7,
+    "label": null
+  },
+  {
+    "key": "78.000",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/78_000.gif",
+    "video": "finanzas.mp4",
+    "start": 171.7,
+    "end": 177.133,
+    "label": null
+  },
+  {
+    "key": "250.000",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/250_000.gif",
+    "video": "finanzas.mp4",
+    "start": 177.133,
+    "end": 183.6,
+    "label": null
+  },
+  {
+    "key": "UN MILLÓN",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/UN_MILLON.gif",
+    "video": "finanzas.mp4",
+    "start": 183.6,
+    "end": 188.85,
+    "label": null
+  },
+  {
+    "key": "UN BILLÓN",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/UN_BILLON.gif",
+    "video": "finanzas.mp4",
+    "start": 188.85,
+    "end": 192.534,
+    "label": null
+  },
+  {
+    "key": "100 PESOS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/100_PESOS.gif",
+    "video": "finanzas.mp4",
+    "start": 198.733,
+    "end": 202.75,
+    "label": null
+  },
+  {
+    "key": "500 PESOS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/500_PESOS.gif",
+    "video": "finanzas.mp4",
+    "start": 202.75,
+    "end": 206.9,
+    "label": null
+  },
+  {
+    "key": "1.500 PESOS",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/1_500_PESOS.gif",
+    "video": "finanzas.mp4",
+    "start": 206.9,
+    "end": 211.9,
+    "label": null
+  },
+  {
+    "key": "BILLETE",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/BILLETE.gif",
+    "video": "finanzas.mp4",
+    "start": 211.9,
+    "end": 215.517,
+    "label": null
+  },
+  {
+    "key": "BILLETERA",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/BILLETERA.gif",
+    "video": "finanzas.mp4",
+    "start": 215.517,
+    "end": 219.15,
+    "label": null
+  },
+  {
+    "key": "CARO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/CARO.gif",
+    "video": "finanzas.mp4",
+    "start": 219.15,
+    "end": 224.116,
+    "label": null
+  },
+  {
+    "key": "BARATO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/BARATO.gif",
+    "video": "finanzas.mp4",
+    "start": 224.116,
+    "end": 228.15,
+    "label": null
+  },
+  {
+    "key": "DESCUENTO",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/DESCUENTO.gif",
+    "video": "finanzas.mp4",
+    "start": 228.15,
+    "end": 232.334,
+    "label": null
+  },
+  {
+    "key": "PRESTAR",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/PRESTAR.gif",
+    "video": "finanzas.mp4",
+    "start": 232.334,
+    "end": 237.416,
+    "label": null
+  },
+  {
+    "key": "PRÉSTAME",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/PRESTAME.gif",
+    "video": "finanzas.mp4",
+    "start": 237.416,
+    "end": 241.3,
+    "label": null
+  },
+  {
+    "key": "VENDER",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/VENDER.gif",
+    "video": "finanzas.mp4",
+    "start": 249.483,
+    "end": 254.65,
+    "label": null
+  },
+  {
+    "key": "AHORRAR",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/AHORRAR.gif",
+    "video": "finanzas.mp4",
+    "start": 254.65,
+    "end": 259.35,
+    "label": null
+  },
+  {
+    "key": "TARJETA",
+    "section": "FINANZAS",
+    "gif": "words/FINANZAS/TARJETA.gif",
+    "video": "finanzas.mp4",
+    "start": 259.35,
+    "end": 263.8,
+    "label": null
   }
 ]
